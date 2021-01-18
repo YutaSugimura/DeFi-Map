@@ -1,4 +1,4 @@
-# Awesome DeFi
+# Awesome DeFi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 List of decentralized finance projects on Ethereum.
 
 ## Lending
@@ -296,3 +296,7 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 - DUSD
   - Contract Address: 0x4fabb145d64652a948d72533023f6e7a623c7c53
   - [etherscan](https://etherscan.io/token/0x4fabb145d64652a948d72533023f6e7a623c7c53)
+  
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
