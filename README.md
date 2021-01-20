@@ -257,6 +257,12 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [docs](https://help.zerion.io/en/)
   - [github](https://github.com/zeriontech)
 
+## Tools
+- [ETHEREUM PUSH NOTIFICATION SERVICE](https://epns.io/) Ethereum Push Notification Service (EPNS) is a decentralized protocol allowing Ethereum users to receive notifications for on-chain or off-chain activity.
+  - [whitepaper](https://whitepaper.epns.io/)
+  - [github](https://github.com/ethereum-push-notification-service)
+  - [App Store](https://apps.apple.com/app/ethereum-push-service-epns/id1528614910)
+  - [Google Play](https://play.google.com/store/apps/details?id=io.epns.epns)
 
 ## Addresses
 - ETH2 Deposit Contract
