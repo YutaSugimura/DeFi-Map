@@ -244,6 +244,9 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [github](https://github.com/ethereum-push-notification-service)
   - [App Store](https://apps.apple.com/app/ethereum-push-service-epns/id1528614910)
   - [Google Play](https://play.google.com/store/apps/details?id=io.epns.epns)
+- [ENS](https://ens.domains) The Ethereum Name Service (ENS) is a distributed, open, and extensible naming system based on the Ethereum blockchain.
+  - [docs](https://docs.ens.domains/)
+  - [github](https://github.com/ensdomains)
 
 ## Addresses
 - ETH2 Deposit Contract [Etherscan](https://etherscan.io/address/0x00000000219ab540356cBB839Cbe05303d7705Fa)
