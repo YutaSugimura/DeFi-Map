@@ -261,6 +261,8 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [github](https://github.com/zeriontech)
 
 ## Tools
+- [Zapper](https://zapper.fi/) zapper is the ultimate hub for Decentralized Finance aka DeFi. Our mission is to increase the GDP of DeFi by abstracting the complexities of accessing unique opportunities faced by retail investors, fund managers and builders around the world.
+  - [docs](https://docs.zapper.fi/)
 - [ETHEREUM PUSH NOTIFICATION SERVICE](https://epns.io/) Ethereum Push Notification Service (EPNS) is a decentralized protocol allowing Ethereum users to receive notifications for on-chain or off-chain activity.
   - [whitepaper](https://whitepaper.epns.io/)
   - [github](https://github.com/ethereum-push-notification-service)
