@@ -252,7 +252,7 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 - [MyEtherWallet](https://www.myetherwallet.com/) MyEtherWallet (MEW) is a free, open-source, client-side interface for generating Ethereum wallets & more. Interact with the Ethereum blockchain easily & securely.
   - [github](https://github.com/myetherwallet)
 - [DeBank](https://debank.com/) DeFi Wallet for you to track DeFi portfolio, explore DeFi project, compare DeFi rates, analyze DeFi risk and manage DeFi assets.
-  - [github](https://github.com/DeBankDeFi
+  - [github](https://github.com/DeBankDeFi)
 - [Zerion](https://zerion.io/) Zerion is an all-in-one interface that allows users to deposit, invest, trade, lend, and borrow DeFi assets. With Zerion, users can manage their entire DeFi portfolio across different protocols and multiple wallets, in real time.
   - [docs](https://help.zerion.io/en/)
   - [github](https://github.com/zeriontech)
