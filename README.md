@@ -220,7 +220,7 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [github](https://github.com/gnosis)
 - [Polymarket](https://polymarket.com/)
   - [github](https://github.com/tokenunion)
-- [Omen](https://omen.eth.link/#/liquidity
+- [Omen](https://omen.eth.link/#/liquidity)
 
 ## DAO
 - [Aragon](https://aragon.org/)
