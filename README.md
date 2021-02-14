@@ -78,6 +78,9 @@ List of decentralized finance projects on Ethereum.
 - [Mooniswap Exchange](https://mooniswap.exchange/#/swap)
   - [docs](https://github.com/1inch-exchange/mooniswap-interface)
   - [github](https://github.com/1inch-exchange/mooniswap)
+- [Alpha Homora V2](https://homora-v2.alphafinance.io/earn) Alpha Homora V2 is a leveraged yield farming and leveraged liquidity providing protocol.
+  - [docs](https://alphafinancelab.gitbook.io/alpha-homora-v2/)
+  - [github](https://github.com/QuantSoldier/alpha-homora-v2)
 - [AirSwap](https://www.airswap.io/)
   - [whitepaper](https://www.airswap.io/whitepaper.htm)
   - [docs](https://docs.airswap.io/)
