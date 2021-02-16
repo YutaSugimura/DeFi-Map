@@ -180,6 +180,8 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 - [Omen](https://omen.eth.link/#/liquidity)
 
 ## DAO
+- [Badger DAO](https://badger.finance/)
+  - [github](https://github.com/Badger-Finance)
 - [Aragon](https://aragon.org/)
   - [github](https://github.com/aragon)
   - token: ANT [Etherscan](https://etherscan.io/token/0xa117000000f279d81a1d3cc75430faa017fa5a2e)
