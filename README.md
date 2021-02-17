@@ -115,6 +115,9 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [docs](https://docs.idex.io/#introduction)
   - [whitepaper](https://idex.io/document/IDEX-2-0-Whitepaper-2019-10-31.pdf)
   - [github](https://github.com/idexio)
+- [ZKSwap](https://zks.org/en) ZKSwap is an AMM modeled layer-2 dex using ZK-Rollups technology. ZKSwap has fully enabled trustless and gas-free payment and transfer (ZKPay) and gas-free, real-time, and infinitely scalable token swaps (ZKSwap) on Ethereum layer-2.
+  - [whitepaper](https://github.com/l2labs/zkswap-whitepaper/raw/master/zkswap_en.pdf)
+  - [github](https://github.com/l2labs)
 
 ### Binance Smart Chain
 - [PancakeSwap](https://pancakeswap.finance/) PancakeSwap is a decentralized exchange running on Binance Smart Chain, with lots of other features that let you earn and win tokens. 
