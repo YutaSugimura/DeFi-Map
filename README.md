@@ -119,6 +119,10 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [whitepaper](https://github.com/l2labs/zkswap-whitepaper/raw/master/zkswap_en.pdf)
   - [github](https://github.com/l2labs)
 
+- [LIDO](https://lido.fi/) Lido is a liquid staking solution for ETH 2.0 backed by industry-leading staking providers
+  - [docs](https://research.lido.fi/t/lido-dao-member-manual/25)
+  - [github](https://github.com/lidofinance)
+
 ### Binance Smart Chain
 - [PancakeSwap](https://pancakeswap.finance/) PancakeSwap is a decentralized exchange running on Binance Smart Chain, with lots of other features that let you earn and win tokens. 
   - [docs](https://docs.pancakeswap.finance/)
