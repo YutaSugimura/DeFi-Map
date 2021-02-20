@@ -132,6 +132,8 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 - [Beefy Finance](https://beefy.finance/) Yield Optimizer On Binance Smart Chain.
   - [docs](https://docs.beefy.finance/beefyfinance/)
   - [github](https://github.com/beefyfinance)
+- [BurgerSwap](https://burgerswap.org/)
+  - [github](https://github.com/burgerswap-org/burgerswap-core)
 
 ## Derivatives
 - [Synthetix](https://synthetix.io/) Synthetix is a derivatives liquidity protocol providing the backbone for derivatives trading in DeFi, allowing anyone, anywhere to gain on-chain exposure to a vast range of assets.
