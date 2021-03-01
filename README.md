@@ -122,10 +122,13 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
     - Contract Address: 0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6
 - [quickswap](https://quickswap.exchange/#/quick) QuickSwap is a fork of Uniswap, a next-gen Layer 2 DEX/AMM powered by the Matic Network with the ability to trade at lightning-fast speeds (~2 second block times) with near-zero gas fees
   - [github](https://github.com/mudgen/quickswap)
-
 - [LIDO](https://lido.fi/) Lido is a liquid staking solution for ETH 2.0 backed by industry-leading staking providers
   - [docs](https://research.lido.fi/t/lido-dao-member-manual/25)
   - [github](https://github.com/lidofinance)
+- [Value DeFi](https://valuedefi.io/)
+  - [Value Liquid](https://valueliquid.io/#/swap)
+  - [docs](https://docs.valuedefi.io/)
+  - [github](https://github.com/valuedefi)
 
 ### Binance Smart Chain
 - [PancakeSwap](https://pancakeswap.finance/) PancakeSwap is a decentralized exchange running on Binance Smart Chain, with lots of other features that let you earn and win tokens. 
@@ -136,6 +139,9 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [github](https://github.com/beefyfinance)
 - [BurgerSwap](https://burgerswap.org/)
   - [github](https://github.com/burgerswap-org/burgerswap-core)
+- [Value DeFi](https://bsc.valuedefi.io/#/)
+  - [docs](https://docs.valuedefi.io/)
+  - [github](https://github.com/valuedefi)
 
 ## Derivatives
 - [Synthetix](https://synthetix.io/) Synthetix is a derivatives liquidity protocol providing the backbone for derivatives trading in DeFi, allowing anyone, anywhere to gain on-chain exposure to a vast range of assets.
