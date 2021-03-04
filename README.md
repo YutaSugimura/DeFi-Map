@@ -15,6 +15,10 @@ List of decentralized finance projects on Ethereum.
   - [github](https://github.com/aave)
   - token: AAVE [Etherscan](https://etherscan.io/token/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9)
     - Contract Address: 0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9
+- [Reflexer](https://reflexer.finance/) GEB is a framework for deploying systems that can issue reflex indexes. Reflex indexes are assets that dampen the volatility of their underlying collateral. 
+  - [whitepaper](https://github.com/reflexer-labs/whitepapers/blob/master/English/rai-english.pdf)
+  - [docs](https://docs.reflexer.finance/)
+  - [github](https://github.com/reflexer-labs)
 - [Yearn](https://yearn.finance/) Yearn Finance is a suite of products in Decentralized Finance (DeFi) that provides lending aggregation, yield generation, and insurance on the Ethereum blockchain. The protocol is maintained by various independent developers and is governed by YFI holders.
   - [whitepaper](https://yfnetworkdefi.com/wp-content/uploads/2020/10/Yearn-Finance-Network-Whitepaper2.1.pdf)
   - [docs](https://docs.yearn.finance/)
