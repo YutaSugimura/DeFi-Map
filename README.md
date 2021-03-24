@@ -134,19 +134,6 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [docs](https://docs.valuedefi.io/)
   - [github](https://github.com/valuedefi)
 
-### Binance Smart Chain
-- [PancakeSwap](https://pancakeswap.finance/) PancakeSwap is a decentralized exchange running on Binance Smart Chain, with lots of other features that let you earn and win tokens. 
-  - [docs](https://docs.pancakeswap.finance/)
-  - [github](https://github.com/pancakeswap)
-- [Beefy Finance](https://beefy.finance/) Yield Optimizer On Binance Smart Chain.
-  - [docs](https://docs.beefy.finance/beefyfinance/)
-  - [github](https://github.com/beefyfinance)
-- [BurgerSwap](https://burgerswap.org/)
-  - [github](https://github.com/burgerswap-org/burgerswap-core)
-- [Value DeFi](https://bsc.valuedefi.io/#/)
-  - [docs](https://docs.valuedefi.io/)
-  - [github](https://github.com/valuedefi)
-
 ## Derivatives
 - [Synthetix](https://synthetix.io/) Synthetix is a derivatives liquidity protocol providing the backbone for derivatives trading in DeFi, allowing anyone, anywhere to gain on-chain exposure to a vast range of assets.
   - [whitepaper](https://www.synthetix.io/uploads/synthetix_whitepaper.pdf)

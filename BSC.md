@@ -29,3 +29,17 @@ Explorer: https://testnet.bscscan.com
 - https://testnet.binance.org/faucet-smart
 
 ## Projects
+- [PancakeSwap](https://pancakeswap.finance/) PancakeSwap is a decentralized exchange running on Binance Smart Chain, with lots of other features that let you earn and win tokens. 
+  - [docs](https://docs.pancakeswap.finance/)
+  - [github](https://github.com/pancakeswap)
+- [Beefy Finance](https://beefy.finance/) Yield Optimizer On Binance Smart Chain.
+  - [docs](https://docs.beefy.finance/beefyfinance/)
+  - [github](https://github.com/beefyfinance)
+- [BurgerSwap](https://burgerswap.org/)
+  - [github](https://github.com/burgerswap-org/burgerswap-core)
+- [Value DeFi](https://bsc.valuedefi.io/#/)
+  - [docs](https://docs.valuedefi.io/)
+  - [github](https://github.com/valuedefi)
+- [Badger.finance](https://app.badger.finance/)
+  - [docs](https://app.gitbook.com/@badger-finance/s/badger-finance/)
+  - [github](https://github.com/Badger-Finance)
