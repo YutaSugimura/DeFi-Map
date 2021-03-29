@@ -243,9 +243,9 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 [Polygon(Matic network)](/Polygon.md)
 
 ## Other Sites
-[DeFi Pulse](https://defipulse.com/)
-[DeFiprime](https://defiprime.com/defi-analytics)
-[ETH Gas Station](https://ethgasstation.info/)
+- [DeFi Pulse](https://defipulse.com/)
+- [DeFiprime](https://defiprime.com/defi-analytics)
+- [ETH Gas Station](https://ethgasstation.info/)
 
 ## Addresses
 - ETH2 Deposit Contract [Etherscan](https://etherscan.io/address/0x00000000219ab540356cBB839Cbe05303d7705Fa)
