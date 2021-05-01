@@ -155,6 +155,10 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - token: DAI [Etherscan](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f), SAI [Etherscan](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359)
       - DAI Contract Address: 0x6b175474e89094c44da98b954eedeac495271d0f
       - SAI Contract Address: 0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359
+- [Fei Protocol](https://fei.money/)
+  - [whitepaper](https://assets.fei.money/docs/whitepaper.pdf)
+  - [docs](https://docs.fei.money/)
+  - [github](https://github.com/fei-protocol/fei-protocol-core)
 - [opyn](https://opyn.co/#/) Opyn builds protocols on Ethereum that allows users to buy, sell, and create options on  ERC20s. DeFi enthusiasts and projects alike rely on Opyn’s smart contracts and interface to hedge themselves against DeFi risks and take positions on different cryptocurrencies.
   - [whitepaper](https://drive.google.com/file/d/1YsrGBUpZoPvFLtcwkEYkxNhogWCU772D/view)
   - [github](https://github.com/opynfinance)
