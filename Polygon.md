@@ -28,3 +28,6 @@ Explorer: https://testnet.bscscan.com
 ## [Faucet](https://faucet.matic.network/)
 
 ## Projects
+- [InstaDApp](https://instadapp.io/) Scaling DeFi for users and developers with Smart Accounts.
+  - [docs](https://docs.instadapp.io/)
+  - [github](https://github.com/instadapp)
