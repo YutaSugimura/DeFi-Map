@@ -246,6 +246,9 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 ## DeFi on Polygon(Matic network)
 [Polygon(Matic network)](/Polygon.md)
 
+## DeFi with L2 technology
+[L2](/L2.md)
+
 ## Other Sites
 - [DeFi Pulse](https://defipulse.com/)
 - [DeFiprime](https://defiprime.com/defi-analytics)
