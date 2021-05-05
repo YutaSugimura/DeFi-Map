@@ -39,10 +39,18 @@ List of decentralized finance projects on Ethereum.
 
 ## Exchanges & Liquidity
 - [Uniswap](https://uniswap.org/) A fully decentralized protocol for automated liquidity provision on Ethereum.
-  - [whitepaper](https://uniswap.org/whitepaper.pdf)
+  - whitepaper
+    - [v2](https://uniswap.org/whitepaper.pdf) (https://uniswap.org/whitepaper.pdf)
+    - [v3](https://uniswap.org/whitepaper-v3.pdf) (https://uniswap.org/whitepaper-v3.pdf)
   - [github](https://github.com/Uniswap)
-  - [docs](https://uniswap.org/docs/v2/)
-  - [sorce code](https://github.com/Uniswap/uniswap-v2-core)
+  - docs
+    - [v1](https://uniswap.org/docs/v1/) (https://uniswap.org/docs/v1/)
+    - [v2](https://uniswap.org/docs/v2/) (https://uniswap.org/docs/v2/)
+    - [v3](https://docs.uniswap.org/) (https://docs.uniswap.org/)
+  - sorce code
+    - [uniswap-v1](https://github.com/Uniswap/uniswap-v1) (https://github.com/Uniswap/uniswap-v1)
+    - [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core) (https://github.com/Uniswap/uniswap-v2-core)
+    - [uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) (https://github.com/Uniswap/uniswap-v3-core)
   - token: UNI [Etherscan](https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984)
     - Contract Address: 0x1f9840a85d5af5bf1d1762f925bdaddc4201f984
 - [Curve](https://www.curve.fi/) Curve is an exchange liquidity pool on Ethereum designed for: extremely efficient stablecoin trading, low risk, supplemental fee income for liquidity providers, without an opportunity cost.
