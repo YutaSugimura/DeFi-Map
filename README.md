@@ -289,6 +289,7 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - Contract Address: 0x0000000000085d4780B73119b644AE5ecd22b376
 - DUSD [Etherscan](https://etherscan.io/token/0x4fabb145d64652a948d72533023f6e7a623c7c53)
   - Contract Address: 0x4fabb145d64652a948d72533023f6e7a623c7c53  
-
+- GYEN [Etherscan](https://etherscan.io/token/0xC08512927D12348F6620a698105e1BAac6EcD911)
+  - Contract Address: 0xC08512927D12348F6620a698105e1BAac6EcD911
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
