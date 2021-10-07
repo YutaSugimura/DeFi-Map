@@ -40,13 +40,13 @@ List of decentralized finance projects on Ethereum.
 ## Exchanges & Liquidity
 - [Uniswap](https://uniswap.org/) A fully decentralized protocol for automated liquidity provision on Ethereum.
   - whitepaper
-    - [v2](https://uniswap.org/whitepaper.pdf) (https://uniswap.org/whitepaper.pdf)
     - [v3](https://uniswap.org/whitepaper-v3.pdf) (https://uniswap.org/whitepaper-v3.pdf)
+    - [v2](https://uniswap.org/whitepaper.pdf) (https://uniswap.org/whitepaper.pdf)
   - [github](https://github.com/Uniswap)
   - docs
-    - [v1](https://uniswap.org/docs/v1/) (https://uniswap.org/docs/v1/)
-    - [v2](https://uniswap.org/docs/v2/) (https://uniswap.org/docs/v2/)
     - [v3](https://docs.uniswap.org/) (https://docs.uniswap.org/)
+    - [v2](https://uniswap.org/docs/v2/) (https://uniswap.org/docs/v2/)
+    - [v1](https://uniswap.org/docs/v1/) (https://uniswap.org/docs/v1/)
   - sorce code
     - [uniswap-v1](https://github.com/Uniswap/uniswap-v1) (https://github.com/Uniswap/uniswap-v1)
     - [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core) (https://github.com/Uniswap/uniswap-v2-core)
