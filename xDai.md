@@ -13,6 +13,4 @@ RPC URL: https://dai.poa.network
 Chain ID: 100
 ```
 
-## [Faucet](https://blockscout.com/xdai/mainnet/faucet)
-
 ## Projects
