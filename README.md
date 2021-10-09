@@ -20,7 +20,6 @@ List of decentralized finance projects on Ethereum.
   - [docs](https://docs.reflexer.finance/)
   - [github](https://github.com/reflexer-labs)
 - [Yearn](https://yearn.finance/) Yearn Finance is a suite of products in Decentralized Finance (DeFi) that provides lending aggregation, yield generation, and insurance on the Ethereum blockchain. The protocol is maintained by various independent developers and is governed by YFI holders.
-  - [whitepaper](https://yfnetworkdefi.com/wp-content/uploads/2020/10/Yearn-Finance-Network-Whitepaper2.1.pdf)
   - [docs](https://docs.yearn.finance/)
   - [github](https://github.com/iearn-finance)
   - token: YFI [Etherscan](https://etherscan.io/token/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e)
@@ -89,9 +88,9 @@ List of decentralized finance projects on Ethereum.
   - [Matcha](https://matcha.xyz/)
   - token: ZRX [Etherscan](https://etherscan.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498)
     - Contract Address: 0xe41d2489571d322189246dafa5ebde1f4699f498
-- [Sushiswap](https://sushiswap.fi/) SushiSwap is an automated market making (AMM) decentralized exchange (DEX) currently on the Ethereum blockchain. We are soon expanding our offerings with the BentoBox lending platform.
+- [Sushiswap](https://sushi.com/) SushiSwap is an automated market making (AMM) decentralized exchange (DEX) currently on the Ethereum blockchain. We are soon expanding our offerings with the BentoBox lending platform.
   - [whitepaper](https://blog.crypto.com/defi-swap-whitepaper/)
-  - [docs](https://dev.sushiswap.fi/)
+  - [docs](https://dev.sushi.com/)
   - [github](https://github.com/sushiswap)
   - token: SUSHI [Etherscan](https://etherscan.io/token/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2)
     - Contract Address: 0x6b3595068778dd592e39a122f4f5a5cf09c90fe2
@@ -125,20 +124,16 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
     - Contract Address: 0xa0246c9032bC3A600820415aE600c6388619A14D
 - [IDEX](https://idex.io/) Trade without compromising performance or security.
   - [docs](https://docs.idex.io/#introduction)
-  - [whitepaper](https://idex.io/document/IDEX-2-0-Whitepaper-2019-10-31.pdf)
   - [github](https://github.com/idexio)
 - [ZKSwap](https://zks.org/en) ZKSwap is an AMM modeled layer-2 dex using ZK-Rollups technology. ZKSwap has fully enabled trustless and gas-free payment and transfer (ZKPay) and gas-free, real-time, and infinitely scalable token swaps (ZKSwap) on Ethereum layer-2.
   - [whitepaper](https://github.com/l2labs/zkswap-whitepaper/raw/master/zkswap_en.pdf)
   - [github](https://github.com/l2labs)
   - token: ZKS [Etherscan](https://etherscan.io/token/0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6)
     - Contract Address: 0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6
-- [quickswap](https://quickswap.exchange/#/quick) QuickSwap is a fork of Uniswap, a next-gen Layer 2 DEX/AMM powered by the Matic Network with the ability to trade at lightning-fast speeds (~2 second block times) with near-zero gas fees
-  - [github](https://github.com/mudgen/quickswap)
 - [LIDO](https://lido.fi/) Lido is a liquid staking solution for ETH 2.0 backed by industry-leading staking providers
   - [docs](https://research.lido.fi/t/lido-dao-member-manual/25)
   - [github](https://github.com/lidofinance)
 - [Value DeFi](https://valuedefi.io/)
-  - [Value Liquid](https://valueliquid.io/#/swap)
   - [docs](https://docs.valuedefi.io/)
   - [github](https://github.com/valuedefi)
 
@@ -170,7 +165,7 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 - [opyn](https://opyn.co/#/) Opyn builds protocols on Ethereum that allows users to buy, sell, and create options on  ERC20s. DeFi enthusiasts and projects alike rely on Opyn’s smart contracts and interface to hedge themselves against DeFi risks and take positions on different cryptocurrencies.
   - [whitepaper](https://drive.google.com/file/d/1YsrGBUpZoPvFLtcwkEYkxNhogWCU772D/view)
   - [github](https://github.com/opynfinance)
-  - [docs](https://opyn.gitbook.io/opyn/faq)
+  - [docs](https://opyn.gitbook.io/opyn/getting-started/introduction)
 - [Lien](https://lien.finance/) A protocol for creating Options and Stablecoins out of ETH.
   - [whitepaper](https://lien.finance/whitepaper)
   - [github](https://github.com/lienfinance)
@@ -198,7 +193,7 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 - [Gnosis](https://gnosis.io/)
   - [github](https://github.com/gnosis)
 - [Polymarket](https://polymarket.com/)
-  - [github](https://github.com/tokenunion)
+  - [blog](https://polymarket.medium.com/)
 - [Omen](https://omen.eth.link/#/liquidity)
 
 ## DAO
@@ -248,6 +243,7 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [docs](https://docs.ens.domains/)
   - [github](https://github.com/ensdomains)
 
+<!-- markdown-link-check-disable -->
 ## DeFi on Binance Smart Chain
 [BSC DeFi](/BSC.md)
 
@@ -256,6 +252,7 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 
 ## DeFi with L2 technology
 [L2](/L2.md)
+<!-- markdown-link-check-enable -->
 
 ## Other Sites
 - [DeFi Pulse](https://defipulse.com/)
