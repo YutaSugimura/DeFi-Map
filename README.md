@@ -1,6 +1,11 @@
 # Awesome DeFi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 List of decentralized finance projects on Ethereum.
 
+<!-- markdown-link-check-disable -->
+## Ethereum Layer 2
+- [Optimistic Ethereum](L2/OptimisticEthereum.md)
+<!-- markdown-link-check-enable -->
+
 ## Lending
 - [Compound](https://compound.finance/) Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open financial applications.
   - [whitepaper](https://compound.finance/documents/Compound.Whitepaper.pdf)
@@ -50,6 +55,7 @@ List of decentralized finance projects on Ethereum.
     - [uniswap-v1](https://github.com/Uniswap/uniswap-v1) (https://github.com/Uniswap/uniswap-v1)
     - [uniswap-v2-core](https://github.com/Uniswap/uniswap-v2-core) (https://github.com/Uniswap/uniswap-v2-core)
     - [uniswap-v3-core](https://github.com/Uniswap/uniswap-v3-core) (https://github.com/Uniswap/uniswap-v3-core)
+    - [v3-core-optimism](https://github.com/Uniswap/v3-core-optimism) (https://github.com/Uniswap/v3-core-optimism)
   - token: UNI [Etherscan](https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984)
     - Contract Address: 0x1f9840a85d5af5bf1d1762f925bdaddc4201f984
 - [Curve](https://www.curve.fi/) Curve is an exchange liquidity pool on Ethereum designed for: extremely efficient stablecoin trading, low risk, supplemental fee income for liquidity providers, without an opportunity cost.
@@ -64,7 +70,7 @@ List of decentralized finance projects on Ethereum.
   - [github](https://github.com/Loopring)
   - token: LRC [Etherscan](https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd)
     - Contract Address: 0xbbbbca6a901c926f240b89eacb641d8aec7aeafd
-- [1inch](https://1inch.exchange/#/) 1inch offers the best rates by discovering the most efficient swapping routes across all leading DEXes. Market. Limit.
+- [1inch](https://1inch.io/) 1inch offers the best rates by discovering the most efficient swapping routes across all leading DEXes. Market. Limit.
   - [whitepaper](https://mooniswap.exchange/docs/MooniswapWhitePaper-v1.0.pdf)
   - [github](https://github.com/1inch-exchange)
   - [docs](https://docs.1inch.exchange/api/)
@@ -210,6 +216,10 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 - [METAMASK](https://metamask.io/) MetaMask is an extension for accessing Ethereum enabled distributed applications, or "Dapps" in your browser!
   - [docs](https://docs.metamask.io/guide/)
   - [github](https://github.com/MetaMask/)
+  - Apps
+    - [chrome extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+    - [iOS](https://apps.apple.com/us/app/metamask/id1438144202?_branch_match_id=884747436440285416)
+    - [Android](https://play.google.com/store/apps/details?id=io.metamask&hl=en_US&ref=producthunt&_branch_match_id=884747436440285416)
 - [Trust Wallet](https://trustwallet.com/) fast and secure multi coin wallet that’s easy to use. ERC20 Compatible
   - [github](https://github.com/trustwallet)
 - [InstaDApp](https://instadapp.io/) Scaling DeFi for users and developers with Smart Accounts.
@@ -249,7 +259,6 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 
 ## DeFi on Polygon(Matic network)
 [Polygon(Matic network)](/Polygon.md)
-
 ## DeFi with L2 technology
 [L2](/L2.md)
 <!-- markdown-link-check-enable -->
