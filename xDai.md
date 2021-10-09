@@ -4,8 +4,6 @@ xDai Chain is an EVM-based sidechain that’s been designed to facilitate transa
 - [github](https://github.com/xdaichain)
 - [explorer](https://blockscout.com/poa/xdai)
 - [faucet](https://blockscout.com/xdai/mainnet/faucet)
-
-## Network
 ### Mainnet
 ```txt
 Name: xDai

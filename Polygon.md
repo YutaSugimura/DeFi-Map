@@ -42,8 +42,6 @@ Explorer: https://testnet.bscscan.com
   - [whitepaper](https://www.curve.fi/whitepaper)
   - [github](https://github.com/curvefi/curve-contract-polygon)
   - [docs](https://www.curve.fi/devdocs)
-- [quickswap](https://quickswap.exchange/#/swap) QuickSwap is a fork of Uniswap, a next-gen Layer 2 DEX/AMM powered by the Matic Network with the ability to trade at lightning-fast speeds (~2 second block times) with near-zero gas fees
-  - [github](https://github.com/mudgen/quickswap)
 - [Sushiswap](https://sushi.com/) SushiSwap is an automated market making (AMM) decentralized exchange (DEX) currently on the Ethereum blockchain. We are soon expanding our offerings with the BentoBox lending platform.
   - [whitepaper](https://blog.crypto.com/defi-swap-whitepaper/)
   - [docs](https://dev.sushi.com/)
