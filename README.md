@@ -3,7 +3,8 @@ List of decentralized finance projects on Ethereum.
 
 <!-- markdown-link-check-disable -->
 ## Ethereum Layer 2
-- [Optimistic Ethereum](L2/OptimisticEthereum.md)
+- [Optimistic Ethereum](/L2/OptimisticEthereum.md)
+- [Arbitrum](/L2/Arbitrum.md)
 <!-- markdown-link-check-enable -->
 
 ## Lending
