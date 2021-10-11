@@ -108,7 +108,7 @@ List of decentralized finance projects on Ethereum.
   - token: KNC [Etherscan](https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200)
     - Contract Address: 0xdd974d5c2e2928dea5f71b9825b8b646686bd200
 - [Bancor](https://app.bancor.network/eth/data) The Bancor Protocol is a fully on-chain liquidity protocol that can be implemented on any smart contract-enabled blockchain. The Bancor Protocol is an open-source standard for liquidity pools, which in turn provide an endpoint for automated market-making (buying / selling tokens) against a smart contract.
-  - [whitepaper](https://support.bancor.network/hc/en-us/sections/360002084771-Whitepaper-)
+  - [whitepaper](https://support.bancor.network/hc/en-us/articles/360015184951-English)
   - [docs](https://docs.bancor.network/)
   - [github](https://github.com/bancorprotocol/)
   - token: BNT [Etherscan](https://etherscan.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c)
