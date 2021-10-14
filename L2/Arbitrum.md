@@ -62,7 +62,9 @@
 - [Balancer](https://balancer.finance/) Balancer is an automated portfolio manager, liquidity provider, and price sensor.
 Balancer turns the concept of an index fund on its head: instead of a paying fees to portfolio managers to rebalance your portfolio, you collect fees from traders, who rebalance your portfolio by following arbitrage opportunities.
   - [whitepaper](https://balancer.finance/whitepaper/)
+<!-- markdown-link-check-disable -->
   - [docs](https://docs.balancer.finance/)
+<!-- markdown-link-check-enable -->
   - [github](https://github.com/balancer-labs)
 - [Beefy Finance](https://beefy.finance/) Yield Optimizer On Binance Smart Chain.
   - [docs](https://docs.beefy.finance/beefyfinance/)
@@ -131,12 +133,7 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
     - [Android](https://play.google.com/store/apps/details?id=io.gopocket)
 - [OKEX](https://www.okex.com/)
 - [Huobi Wallet](https://www.huobiwallet.io/) 
-  - Apps
-    - [iOS](https://apps.apple.com/cn/app/id1433883012)
 - [Token Pocket](https://www.tokenpocket.pro/) Multi-chain, security and convenience, the portal of DApp
-  - Apps
-    - [iOS](https://apps.apple.com/cn/app/tokenpocket-trusted-wallet/id1436028697)
-    - [Android](https://play.google.com/store/apps/details?id=vip.mytokenpocket)
 - [imToken](https://token.im/) imToken is an easy and secure digital wallet trusted by millions
   - [github](https://github.com/consenlabs)
   - Apps

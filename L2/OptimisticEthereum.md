@@ -92,9 +92,6 @@
     - [iOS](https://apps.apple.com/app/apple-store/id1288339409?mt=8)
     - [Android](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp&referrer=utm_source%3Dwebsite)
 - [Token Pocket](https://www.tokenpocket.pro/) Multi-chain, security and convenience, the portal of DApp
-  - Apps
-    - [iOS](https://apps.apple.com/cn/app/tokenpocket-trusted-wallet/id1436028697)
-    - [Android](https://play.google.com/store/apps/details?id=vip.mytokenpocket)
 - [Rabby](https://rabby.io/) A better extension wallet for DeFi users
   - [github](https://github.com/RabbyHub/Rabby)
   - Apps

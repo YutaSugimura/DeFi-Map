@@ -83,9 +83,12 @@ List of decentralized finance projects on Ethereum.
 - [Alpha Homora V2](https://homora-v2.alphafinance.io/earn) Alpha Homora V2 is a leveraged yield farming and leveraged liquidity providing protocol.
   - [docs](https://alphafinancelab.gitbook.io/alpha-homora-v2/)
   - [github](https://github.com/QuantSoldier/alpha-homora-v2)
+
 - [AirSwap](https://www.airswap.io/)
   - [whitepaper](https://www.airswap.io/whitepaper.htm)
+<!-- markdown-link-check-disable -->
   - [docs](https://docs.airswap.io/)
+<!-- markdown-link-check-enable -->
   - [github](https://github.com/airswap)
   - token: AST [Etherscan](https://etherscan.io/token/0x27054b13b1b798b345b591a4d22e6562d47ea75a)
     - Contract Address: 0x27054b13b1b798b345b591a4d22e6562d47ea75a
@@ -108,7 +111,9 @@ List of decentralized finance projects on Ethereum.
   - token: KNC [Etherscan](https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200)
     - Contract Address: 0xdd974d5c2e2928dea5f71b9825b8b646686bd200
 - [Bancor](https://app.bancor.network/eth/data) The Bancor Protocol is a fully on-chain liquidity protocol that can be implemented on any smart contract-enabled blockchain. The Bancor Protocol is an open-source standard for liquidity pools, which in turn provide an endpoint for automated market-making (buying / selling tokens) against a smart contract.
+<!-- markdown-link-check-disable -->
   - [whitepaper](https://support.bancor.network/hc/en-us/articles/360015184951-English)
+<!-- markdown-link-check-enable -->
   - [docs](https://docs.bancor.network/)
   - [github](https://github.com/bancorprotocol/)
   - token: BNT [Etherscan](https://etherscan.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c)
@@ -116,7 +121,9 @@ List of decentralized finance projects on Ethereum.
 - [Balancer](https://balancer.finance/) Balancer is an automated portfolio manager, liquidity provider, and price sensor.
 Balancer turns the concept of an index fund on its head: instead of a paying fees to portfolio managers to rebalance your portfolio, you collect fees from traders, who rebalance your portfolio by following arbitrage opportunities.
   - [whitepaper](https://balancer.finance/whitepaper/)
+<!-- markdown-link-check-disable -->
   - [docs](https://docs.balancer.finance/)
+<!-- markdown-link-check-enable -->
   - [github](https://github.com/balancer-labs)
   - token: BAL [Etherscan](https://etherscan.io/token/0xba100000625a3754423978a60c9317c58a424e3d)
     - Contract Address: 0xba100000625a3754423978a60c9317c58a424e3d
