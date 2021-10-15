@@ -62,9 +62,7 @@
 - [Balancer](https://balancer.finance/) Balancer is an automated portfolio manager, liquidity provider, and price sensor.
 Balancer turns the concept of an index fund on its head: instead of a paying fees to portfolio managers to rebalance your portfolio, you collect fees from traders, who rebalance your portfolio by following arbitrage opportunities.
   - [whitepaper](https://balancer.finance/whitepaper/)
-<!-- markdown-link-check-disable -->
   - [docs](https://docs.balancer.finance/)
-<!-- markdown-link-check-enable -->
   - [github](https://github.com/balancer-labs)
 - [Beefy Finance](https://beefy.finance/) Yield Optimizer On Binance Smart Chain.
   - [docs](https://docs.beefy.finance/beefyfinance/)
