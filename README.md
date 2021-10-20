@@ -254,8 +254,8 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 - [ENS](https://ens.domains) The Ethereum Name Service (ENS) is a distributed, open, and extensible naming system based on the Ethereum blockchain.
   - [docs](https://docs.ens.domains/)
   - [github](https://github.com/ensdomains)
-- [WalletConnect](https://walletconnect.org/)WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking.
-  - [docs](https://docs.walletconnect.org/)
+- [WalletConnect](https://walletconnect.com/)WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking.
+  - [docs](https://docs.walletconnect.com/)
   - [github](https://github.com/walletconnect)
 
 <!-- markdown-link-check-disable -->
