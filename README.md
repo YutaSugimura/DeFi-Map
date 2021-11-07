@@ -300,7 +300,7 @@ Combining the stability of the U.S. dollar with the efficiency of blockchain tec
   - [github](https://github.com/INFURA)
 - [Mirror](https://mirror.xyz/)
 
-## ORACLES
+## Oracles
 - [Chainlink](https://chain.link/)
   - [docs](https://docs.chain.link/?_ga=2.244701125.1374340143.1636275536-1112861630.1636275536)
 - [Band Protocol](https://bandprotocol.com/)
