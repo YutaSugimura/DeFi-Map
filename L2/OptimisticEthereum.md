@@ -27,6 +27,11 @@
 
 <!-- markdown-link-check-enable -->
 
+## Contracts
+- [L1 Contract Addresses](https://github.com/ethereum-optimism/optimism/tree/ef5343d61708f2d15f51dca981f03ee4ac447c21/packages/contracts/deployments#mainnet)
+- [L2 Contract Addresses](https://github.com/ethereum-optimism/optimism/tree/ef5343d61708f2d15f51dca981f03ee4ac447c21/packages/contracts/deployments#layer-2)
+
+
 ## Optimism Gateway
 - [deposit](https://gateway.optimism.io/)
 
@@ -108,31 +113,3 @@
   - [github](https://github.com/Zapper-fi)
 - [DeBank](https://debank.com/) Track your full portfolio through 420 DeFi protocols on 11 chains.
   - [github](https://github.com/DeBankDeFi)
-
-## Contracts
-- [L1 Contract Addresses](https://github.com/ethereum-optimism/optimism/tree/ef5343d61708f2d15f51dca981f03ee4ac447c21/packages/contracts/deployments#mainnet)
-- [L2 Contract Addresses](https://github.com/ethereum-optimism/optimism/tree/ef5343d61708f2d15f51dca981f03ee4ac447c21/packages/contracts/deployments#layer-2)
-
-## Addresses
-- USDT [Explorer](https://optimistic.etherscan.io/token/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58)
-  - Contract Address: 0x94b008aa00579c1307b0ef2c499ad98a8ce58e58
-- USDC [Explorer](https://optimistic.etherscan.io/token/0x7f5c764cbc14f9669b88837ca1490cca17c31607)
-  - Contract Address: 0x7f5c764cbc14f9669b88837ca1490cca17c31607
-- LINK [Explorer](https://optimistic.etherscan.io/token/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6)
-  - Contract Address: 0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6
-- WBTC [Explorer](https://optimistic.etherscan.io/token/0x68f180fcce6836688e9084f035309e29bf0a2095)
-  - Contract Address: 0x68f180fcce6836688e9084f035309e29bf0a2095
-- DAI [Explorer](https://optimistic.etherscan.io/token/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1)
-  - Contract Address: 0xda10009cbd5d07dd0cecc66161fc93d7c9000da1
-- SNX [Explorer](https://optimistic.etherscan.io/token/0x8700daec35af8ff88c16bdf0418774cb3d7599b4)
-  - Contract Address: 0x8700daec35af8ff88c16bdf0418774cb3d7599b4
-- sETH [Explorer](https://optimistic.etherscan.io/token/0xe405de8f52ba7559f9df3c368500b6e6ae6cee49)
-  - Contract Address: 0xe405de8f52ba7559f9df3c368500b6e6ae6cee49
-- RGT [Explorer](https://optimistic.etherscan.io/token/0xb548f63d4405466b36c0c0ac3318a22fdcec711a)
-  - Contract Address: 0xb548f63d4405466b36c0c0ac3318a22fdcec711a
-- sBTC [Explorer](https://optimistic.etherscan.io/token/0x298b9b95708152ff6968aafd889c6586e9169f1d)
-  - Contract Address: 0x298b9b95708152ff6968aafd889c6586e9169f1d
-- sUSD [Explorer](https://optimistic.etherscan.io/token/0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9)
-  - Contract Address: 0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9
-- sLINK [Explorer](https://optimistic.etherscan.io/token/0xc5db22719a06418028a40a9b5e9a7c02959d0d08)
-  - Contract Address: 0xc5db22719a06418028a40a9b5e9a7c02959d0d08

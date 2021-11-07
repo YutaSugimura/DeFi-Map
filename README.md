@@ -5,6 +5,11 @@ List of decentralized finance projects on Ethereum.
 ## Ethereum Layer 2
 - [Optimistic Ethereum](/L2/OptimisticEthereum.md)
 - [Arbitrum](/L2/Arbitrum.md)
+
+## SideChains
+- [Polygon(Matic network)](/Polygon.md)
+- [BSC DeFi](/BSC.md)
+
 <!-- markdown-link-check-enable -->
 
 ## Lending
@@ -41,6 +46,16 @@ List of decentralized finance projects on Ethereum.
 - [Dharma](https://www.dharma.io/) The easiest place to borrow and lend cryptocurrencies.
   - [docs](https://github.com/dharmaprotocol/developer-docs)
   - [github](https://github.com/dharmaprotocol)
+- [bxz](https://bzx.network/) Build applications that empower lenders, borrowers, and traders with the most flexible decentralized finance protocol on Ethereum.
+  - [docs](https://docs.bzx.network/)
+  - [github](https://github.com/bZxNetwork)
+- [maple](https://www.maple.finance/) The Maple protocol offers the most capital efficient option for institutional borrowing and fixed income lending in decentralized finance.
+  - [docs](https://maplefinance.gitbook.io/maple/protocol/maple-protocol-v1.0.0)
+  - [wiki](https://github.com/maple-labs/maple-core/wiki)
+  - [github](https://github.com/maple-labs)
+- [Teller](https://www.teller.finance/) Teller connects to your bank account to offer risk-assessed loans, without the need for collateral.
+  - [docs](https://teller.gitbook.io/teller-docs/)
+  - [github](https://github.com/teller-protocol)
 
 ## Exchanges & Liquidity
 - [Uniswap](https://uniswap.org/) A fully decentralized protocol for automated liquidity provision on Ethereum.
@@ -71,6 +86,11 @@ List of decentralized finance projects on Ethereum.
   - [github](https://github.com/Loopring)
   - token: LRC [Etherscan](https://etherscan.io/token/0xbbbbca6a901c926f240b89eacb641d8aec7aeafd)
     - Contract Address: 0xbbbbca6a901c926f240b89eacb641d8aec7aeafd
+- [ZKSwap](https://zks.org/en) ZKSwap is an AMM modeled layer-2 dex using ZK-Rollups technology. ZKSwap has fully enabled trustless and gas-free payment and transfer (ZKPay) and gas-free, real-time, and infinitely scalable token swaps (ZKSwap) on Ethereum layer-2.
+  - [whitepaper](https://github.com/l2labs/zkswap-whitepaper/raw/master/zkswap_en.pdf)
+  - [github](https://github.com/l2labs)
+  - token: ZKS [Etherscan](https://etherscan.io/token/0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6)
+    - Contract Address: 0xe4815AE53B124e7263F08dcDBBB757d41Ed658c6
 - [1inch](https://1inch.io/) 1inch offers the best rates by discovering the most efficient swapping routes across all leading DEXes. Market. Limit.
   - [whitepaper](https://mooniswap.exchange/docs/MooniswapWhitePaper-v1.0.pdf)
   - [github](https://github.com/1inch-exchange)
@@ -83,7 +103,6 @@ List of decentralized finance projects on Ethereum.
 - [Alpha Homora V2](https://homora-v2.alphafinance.io/earn) Alpha Homora V2 is a leveraged yield farming and leveraged liquidity providing protocol.
   - [docs](https://alphafinancelab.gitbook.io/alpha-homora-v2/)
   - [github](https://github.com/QuantSoldier/alpha-homora-v2)
-
 - [AirSwap](https://www.airswap.io/)
   - [whitepaper](https://www.airswap.io/whitepaper.htm)
   - [docs](https://docs.airswap.io/)
@@ -144,6 +163,35 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 - [Value DeFi](https://valuedefi.io/)
   - [docs](https://docs.valuedefi.io/)
   - [github](https://github.com/valuedefi)
+- [CowSwap](https://cowswap.exchange/#/swap)
+  - [github](https://github.com/gnosis/cowswap)
+- [liquality](https://liquality.io/atomic-swap-dapp.html) Atomic Swap Crypto Across Blockchains Without Having To Trust A Custodian Or Counterparty.
+  - [github](https://github.com/liquality)
+- [atomex](https://github.com/atomex-me) Hybrid exchange based on atomic swap technology and multicurrency HD wallet.
+- [totle](https://www.totle.com/) Totle is a non-custodial, smart-order routing platform that provides access to DeFi liquidity pools via a simple API.
+  - [docs](https://developers.totle.com/)
+  - [github](https://github.com/TotlePlatform)
+- [KeeperDAO](https://www.keeperdao.com/) KeeperDAO is building a decentralized protocol for Keepers that will help make Ethereum a more secure, egalitarian, and profitable network for all.
+  - [docs](https://docs.keeperdao.com/reference/)
+  - [github](https://github.com/keeperdao)
+- [Fulcrum](https://fulcrum.trade/) Fulcrum is a powerful DeFi platform for tokenized lending and margin trading.
+  - [docs](https://docs.bzx.network/)
+  - [github](https://github.com/bZxNetwork)
+- [Paraswap](https://paraswap.io/#/?network=ethereum) ParaSwap aggregates decentralized exchanges and other DeFi services in one comprehensive interface to streamline and facilitate users' interactions with Ethereum's decentralized finance.
+  - [docs](https://doc.paraswap.network/)
+  - [github](https://github.com/paraswap)
+- [Beefy Finance](https://beefy.finance/) Yield Optimizer On Binance Smart Chain.
+  - [docs](https://docs.beefy.finance/beefyfinance/)
+  - [github](https://github.com/beefyfinance)
+- [BurgerSwap](https://burgerswap.org/)
+  - [github](https://github.com/burgerswap-org/burgerswap-core)
+- [DoDo](https://dodoex.io/) DODO is a decentralized exchange platform powered by the Proactive Market Maker (PMM) algorithm. 
+  - [docs](https://dodoex.github.io/docs/docs/)
+  - [github](https://github.com/DODOEX)
+- [Hop.Exchange](https://app.hop.exchange/send) Hop allows you to quickly bridge assets between L1 and various L2 solutions.
+  - [docs](https://docs.hop.exchange/)
+  - [explorer](https://explorer.hop.exchange/mainnet/)
+  - [github](https://github.com/hop-protocol)
 
 ## Derivatives
 - [Synthetix](https://synthetix.io/) Synthetix is a derivatives liquidity protocol providing the backbone for derivatives trading in DeFi, allowing anyone, anywhere to gain on-chain exposure to a vast range of assets.
@@ -156,7 +204,28 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [whitepaper](https://whitepaper.dydx.exchange/)
   - [docs](https://docs.dydx.exchange/#introduction)
   - [github](https://github.com/dydxprotocol/)
-
+- [opyn](https://opyn.co/#/) Opyn builds protocols on Ethereum that allows users to buy, sell, and create options on  ERC20s. DeFi enthusiasts and projects alike rely on Opyn’s smart contracts and interface to hedge themselves against DeFi risks and take positions on different cryptocurrencies.
+  - [whitepaper](https://drive.google.com/file/d/1YsrGBUpZoPvFLtcwkEYkxNhogWCU772D/view)
+  - [github](https://github.com/opynfinance)
+  - [docs](https://opyn.gitbook.io/opyn/getting-started/introduction)
+- [RibbonFinance](https://app.ribbon.finance/) Ribbon Finance is a new protocol that creates crypto structured products for DeFi.
+  - [docs](https://docs.ribbon.finance/)
+  - [github](https://github.com/ribbon-finance)
+- [Lien](https://lien.finance/) A protocol for creating Options and Stablecoins out of ETH.
+  - [whitepaper](https://lien.finance/whitepaper)
+  - [github](https://github.com/lienfinance)
+  - token: LIEN [Etherscan](https://etherscan.io/token/0xaB37e1358b639Fd877f015027Bb62d3ddAa7557E), iDOL [Etherscan](https://etherscan.io/token/0x7591a309df68bf43ba42dd11b0344220a260020a)
+      - LIEN Contract Address: 0xaB37e1358b639Fd877f015027Bb62d3ddAa7557E
+      - iDOL Contract Address: 0x7591a309df68bf43ba42dd11b0344220a260020a
+- [UMA](https://umaproject.org/) UMA enables anyone to build decentralized financial products.
+  - [docs](https://docs.umaproject.org/build-walkthrough/build-process)
+  - [github](https://github.com/umaprotocol)
+- [MCDEX](https://mcdex.io/homepage/) Monte Carlo Decentralized Exchange
+  - [github](https://github.com/mcdexio)
+- [Derivadex](https://derivadex.com/) Until now, traders have had to choose between performance and security.
+- [opium.network](https://opium.network/) pium is a universal and robust protocol that allows for creating, settling, and trading any decentralised derivative.
+- [HEGIC](https://www.hegic.co/)
+  - [github](https://github.com/hegic)
 ## Stablecoins 
 - [Maker Dao](https://makerdao.com/en/) MakerDAO enables the generation of Dai, the world's first unbiased currency and leading decentralized stablecoin.
   - [whitepaper](https://makerdao.com/en/whitepaper/)
@@ -166,20 +235,10 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - token: DAI [Etherscan](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f), SAI [Etherscan](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359)
       - DAI Contract Address: 0x6b175474e89094c44da98b954eedeac495271d0f
       - SAI Contract Address: 0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359
-- [Fei Protocol](https://fei.money/)
+- [Fei Protocol](https://fei.money/) FEI is a new kind of stablecoin. It is more capital efficient, has a fair distribution, and is fully decentralized. The protocol uses the value it controls to maintain liquid secondary markets.
   - [whitepaper](https://assets.fei.money/docs/whitepaper.pdf)
   - [docs](https://docs.fei.money/)
   - [github](https://github.com/fei-protocol/fei-protocol-core)
-- [opyn](https://opyn.co/#/) Opyn builds protocols on Ethereum that allows users to buy, sell, and create options on  ERC20s. DeFi enthusiasts and projects alike rely on Opyn’s smart contracts and interface to hedge themselves against DeFi risks and take positions on different cryptocurrencies.
-  - [whitepaper](https://drive.google.com/file/d/1YsrGBUpZoPvFLtcwkEYkxNhogWCU772D/view)
-  - [github](https://github.com/opynfinance)
-  - [docs](https://opyn.gitbook.io/opyn/getting-started/introduction)
-- [Lien](https://lien.finance/) A protocol for creating Options and Stablecoins out of ETH.
-  - [whitepaper](https://lien.finance/whitepaper)
-  - [github](https://github.com/lienfinance)
-  - token: LIEN [Etherscan](https://etherscan.io/token/0xaB37e1358b639Fd877f015027Bb62d3ddAa7557E), iDOL [Etherscan](https://etherscan.io/token/0x7591a309df68bf43ba42dd11b0344220a260020a)
-      - LIEN Contract Address: 0xaB37e1358b639Fd877f015027Bb62d3ddAa7557E
-      - iDOL Contract Address: 0x7591a309df68bf43ba42dd11b0344220a260020a
 - [Idle](https://idle.finance/#/) Idle is a decentralized protocol dedicated to bringing automatic asset allocation and aggregation to the interest-bearing tokens economy. This protocol bundles stable crypto-assets (stablecoins) into tokenized baskets that are programmed to automatically rebalance based on different management logics.
   - [docs](https://developers.idle.finance/)
   - [github](https://github.com/Idle-Labs/)
@@ -190,6 +249,15 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [github](https://github.com/ampleforth)
   - token: AMPL [Etherscan](https://etherscan.io/token/0xd46ba6d942050d489dbd938a2c909a5d5039a161)
     - Contract Address: 0xd46ba6d942050d489dbd938a2c909a5d5039a161
+- [Terra](https://www.terra.money/) Using a combination of open market arbitrage incentives and decentralized oracle voting, the Terra protocol creates stablecoins that consistently track the price of any fiat currency.
+  - [docs](https://docs.terra.money/Concepts/Protocol.html)
+  - [github](https://github.com/terra-money)
+- [MSTABLE](https://mstable.org/) mStable is an autonomous and non-custodial infrastructure for pegged-value crypto assets. The protocol was created to address three major problems.
+  - [github](https://github.com/mstable)
+- [HUSD](https://www.stcoins.com/) 
+Combining the stability of the U.S. dollar with the efficiency of blockchain technology, HUSD is designed to be secure, liquid and convenient.
+- [AUGMINT](https://www.augmint.org/)
+  - [github](https://github.com/Augmint)
 
 ## Prediction Markets
 - [Augur](https://augur.net/) Prediction Market Protocol and Client.
@@ -198,9 +266,9 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [github](https://github.com/AugurProject)
   - token: REPv2 [Etherscan](https://etherscan.io/token/0x221657776846890989a759ba2973e427dff5c9bb)
     - Contract Address: 0x221657776846890989a759ba2973e427dff5c9bb
-- [Gnosis](https://gnosis.io/)
+- [GnosisDAO](https://gnosis.io/gnosisdao/) GnosisDAO is a collective that uses Gnosis products to transparently guide decisions on development, support, and governance of its token ecosystem.
   - [github](https://github.com/gnosis)
-- [Polymarket](https://polymarket.com/)
+- [Polymarket](https://polymarket.com/) Polymarket is a decentralized information markets platform, harnessing the power of free markets to demystify the real world events that matter most to you.
   - [blog](https://polymarket.medium.com/)
 - [Omen](https://omen.eth.link/#/liquidity)
 
@@ -211,10 +279,27 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - [github](https://github.com/aragon)
   - token: ANT [Etherscan](https://etherscan.io/token/0xa117000000f279d81a1d3cc75430faa017fa5a2e)
     - Contract Address: 0xa117000000f279d81a1d3cc75430faa017fa5a2e
+- [COLONY](https://colony.io/) Colony makes it easy for people all over the world to build organizations together, online.
+  - [github](https://github.com/JoinColony)
 - [DAOstack](https://daostack.io/) DAOstack is an open source project advancing the technology and adoption of decentralized governance.
+  - [docs](https://app.gitbook.com/@daostack-1/s/v1/)
   - [github](https://github.com/daostack)
+- [PieDAO](https://www.piedao.org/) PieDAO is a community DAO focused on tokenising automated wealth creation strategies.
+  - [github](https://github.com/pie-dao)
+- [DAO Haus](https://daohaus.club/) HausDAO is the hub from which each working group requests their budget. Each ‘Department’ has its own DAO for optimal autonomy.
+- [DXdao](https://dxdao.eth.link/#/) The DXdao is a decentralized organization initialized in May of 2019 and has over 400 unique stakeholder addresses.
 
-## Custodial Services
+## Insurance
+- [ETHERISC](https://etherisc.com/) Decentralized insurance protocol to collectively build insurance products.
+  - [whitepaper](https://etherisc.com/whitepaper)
+  - [github](https://github.com/etherisc)
+- [Nexus Mutual](https://nexusmutual.io/) A people-powered alternative to insurance, built on Ethereum.
+  - [docs](https://nexusmutual.gitbook.io/docs/users/understanding-nexus-mutual)
+  - [whitepaper](https://nexusmutual.io/assets/docs/nmx_white_paperv2_3.pdf)
+  - [github](https://github.com/NexusMutual)
+- [VouchForMe](https://vouchforme.co/)
+
+## Asset Management
 - [METAMASK](https://metamask.io/) MetaMask is an extension for accessing Ethereum enabled distributed applications, or "Dapps" in your browser!
   - [docs](https://docs.metamask.io/guide/)
   - [github](https://github.com/MetaMask/)
@@ -233,7 +318,7 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 - [Authereum](https://authereum.com/) Authereum is an Ethereum-based wallet and dApp login solution. It allows users to easily interact with web 3 applications via any browser, using nothing but a username and password.
   - [sorce sode](https://github.com/authereum/contracts)
   - [github](https://github.com/authereum)
-- [Gnosis Safe](https://gnosis-safe.io/) Gnosis Safe Multisig is the most trusted platform to manage digital assets on Ethereum.
+- [Gnosis Safe](https://gnosis.io/safe/) Gnosis Safe Multisig is the most trusted platform to manage digital assets on Ethereum.
   - [github](https://github.com/gnosis)
 - [MyEtherWallet](https://www.myetherwallet.com/) MyEtherWallet (MEW) is a free, open-source, client-side interface for generating Ethereum wallets & more. Interact with the Ethereum blockchain easily & securely.
   - [github](https://github.com/myetherwallet)
@@ -242,6 +327,10 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 - [Zerion](https://zerion.io/) Zerion is an all-in-one interface that allows users to deposit, invest, trade, lend, and borrow DeFi assets. With Zerion, users can manage their entire DeFi portfolio across different protocols and multiple wallets, in real time.
   - [docs](https://help.zerion.io/en/)
   - [github](https://github.com/zeriontech)
+- [liquality wallet](https://liquality.io/wallet.html)
+  - [github](https://github.com/liquality)
+- [Atomex Crypto Wallet](https://atomex.me/) Multicurrency HD wallet with built-in hybrid atomic swap exchange
+
 
 ## Tools
 - [Zapper](https://zapper.fi/) zapper is the ultimate hub for Decentralized Finance aka DeFi. Our mission is to increase the GDP of DeFi by abstracting the complexities of accessing unique opportunities faced by retail investors, fund managers and builders around the world.
@@ -257,21 +346,33 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
 - [WalletConnect](https://walletconnect.com/)WalletConnect is an open source protocol for connecting decentralised applications to mobile wallets with QR code scanning or deep linking.
   - [docs](https://docs.walletconnect.com/)
   - [github](https://github.com/walletconnect)
+- [INFURA](https://infura.io/) Our suite of high availability APIs and Developer Tools provide quick, reliable access to the Ethereum and IPFS networks so you can focus on building and scaling next generation software.
+  - [github](https://github.com/INFURA)
+- [Mirror](https://mirror.xyz/)
 
-<!-- markdown-link-check-disable -->
-## DeFi on Binance Smart Chain
-[BSC DeFi](/BSC.md)
+## ORACLES
+- [Chainlink](https://chain.link/)
+  - [docs](https://docs.chain.link/?_ga=2.244701125.1374340143.1636275536-1112861630.1636275536)
+- [Band Protocol](https://bandprotocol.com/)
+  - [docs](https://docs.bandchain.org/)
+  - [github](https://github.com/bandprotocol)
+- [tellor](https://www.tellor.io/)
+  - [github](https://github.com/tellor-io)
+- [NEST Protocol](https://nestprotocol.org/)
+  - [github](https://github.com/NEST-Protocol)
 
-## DeFi on Polygon(Matic network)
-[Polygon(Matic network)](/Polygon.md)
-## DeFi with L2 technology
-[L2](/L2.md)
-<!-- markdown-link-check-enable -->
-
-## Other Sites
-- [DeFi Pulse](https://defipulse.com/)
-- [DeFiprime](https://defiprime.com/defi-analytics)
+## Data & Analytics
+- [etherscan](https://etherscan.io/)
+- [CoinGecko](https://www.coingecko.com)
+- [DeFi PULSE](https://defipulse.com/)
+- [Dune Analytics](https://dune.xyz/home)
+- [CoinMarketCap](https://coinmarketcap.com/)
 - [ETH Gas Station](https://ethgasstation.info/)
+- [blocknative](https://www.blocknative.com/)
+- [DeFiprime](https://defiprime.com/defi-analytics)
+- [LoanScan](https://loanscan.io/)
+- [Bloxy](https://bloxy.info/)
+- [Nansen](https://www.nansen.ai/)
 
 ## Addresses
 - ETH2 Deposit Contract [Etherscan](https://etherscan.io/address/0x00000000219ab540356cBB839Cbe05303d7705Fa)
@@ -302,5 +403,6 @@ Balancer turns the concept of an index fund on its head: instead of a paying fee
   - Contract Address: 0x4fabb145d64652a948d72533023f6e7a623c7c53  
 - GYEN [Etherscan](https://etherscan.io/token/0xC08512927D12348F6620a698105e1BAac6EcD911)
   - Contract Address: 0xC08512927D12348F6620a698105e1BAac6EcD911
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
