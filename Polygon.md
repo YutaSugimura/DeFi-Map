@@ -37,7 +37,6 @@ Explorer: https://testnet.bscscan.com
   - [whitepaper](https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf)
   - [docs](https://docs.aave.com/portal/)
   - [github](https://github.com/aave)
-- []()
 - [Curve](https://www.curve.fi/) Curve is an exchange liquidity pool on Ethereum designed for: extremely efficient stablecoin trading, low risk, supplemental fee income for liquidity providers, without an opportunity cost.
   - [whitepaper](https://www.curve.fi/whitepaper)
   - [github](https://github.com/curvefi/curve-contract-polygon)
