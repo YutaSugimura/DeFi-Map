@@ -374,35 +374,5 @@ Combining the stability of the U.S. dollar with the efficiency of blockchain tec
 - [Bloxy](https://bloxy.info/)
 - [Nansen](https://www.nansen.ai/)
 
-## Addresses
-- ETH2 Deposit Contract [Etherscan](https://etherscan.io/address/0x00000000219ab540356cBB839Cbe05303d7705Fa)
-  - Contract Address: 0x00000000219ab540356cBB839Cbe05303d7705Fa
-
-### Token
-- WBTC [Etherscan](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599)
-  - Contract Address: 0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599
-- RenBTC [Etherscan](https://etherscan.io/token/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d)
-  - Contract Address: 0xeb4c2781e4eba804ce9a9803c67d0893436bb27d
-- BNB [Etherscan](https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52)
-  - Contract Address: 0xB8c77482e45F1F44dE1745F52C74426C631bDD52
-- BAT [Etherscan](https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef)
-  - Contract Address: 0x0d8775f648430679a709e98d2b0cb6250d2887ef
-- LINK [Etherscan](https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca)
-  - Contract Address: 0x514910771af9ca656af840dff83e8264ecf986ca
-- WETH [Etherscan](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
-  - Contract Address: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
-
-### StableCoin
-- USDC [Etherscan](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48)
-  - Contract Address: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
-- USDT [Etherscan](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7)
-  - Contract Address: 0xdac17f958d2ee523a2206206994597c13d831ec7
-- TUSD [Etherscan](https://etherscan.io/token/0x0000000000085d4780B73119b644AE5ecd22b376)
-  - Contract Address: 0x0000000000085d4780B73119b644AE5ecd22b376
-- DUSD [Etherscan](https://etherscan.io/token/0x4fabb145d64652a948d72533023f6e7a623c7c53)
-  - Contract Address: 0x4fabb145d64652a948d72533023f6e7a623c7c53  
-- GYEN [Etherscan](https://etherscan.io/token/0xC08512927D12348F6620a698105e1BAac6EcD911)
-  - Contract Address: 0xC08512927D12348F6620a698105e1BAac6EcD911
-
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)

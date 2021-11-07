@@ -1,5 +1,12 @@
+# Ethereum2.0 Deposit Contract
+  - [Explorer](https://etherscan.io/address/0x00000000219ab540356cBB839Cbe05303d7705Fa)
+  - Contract Address: 0x00000000219ab540356cBB839Cbe05303d7705Fa
 # Addresses
 - USDT
+  - Ethereum Mainnet
+    - [Explorer](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7)
+    - Contract Address: 0xdac17f958d2ee523a2206206994597c13d831ec7
+
   - Optimistic Ethereum
     - [Explorer](https://optimistic.etherscan.io/token/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58)
     - Contract Address: 0x94b008aa00579c1307b0ef2c499ad98a8ce58e58
@@ -8,6 +15,10 @@
     - [Explorer](https://arbiscan.io/token/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9)
     - Contract Address: 0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9
 - USDC
+  - Ethereum Mainnet
+    - [Explorer](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48)
+    - Contract Address: 0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+
   - Optimistic Ethereum
     - [Explorer](https://optimistic.etherscan.io/token/0x7f5c764cbc14f9669b88837ca1490cca17c31607)
     - Contract Address: 0x7f5c764cbc14f9669b88837ca1490cca17c31607
@@ -15,11 +26,27 @@
   - Arbitrum
     - [Explorer](https://arbiscan.io/token/0xff970a61a04b1ca14834a43f5de4533ebddb5cc8)
     - Contract Address: 0xff970a61a04b1ca14834a43f5de4533ebddb5cc8
+- TUSD
+  - Ethereum Mainnet
+    - [Explorer](https://etherscan.io/token/0x0000000000085d4780B73119b644AE5ecd22b376)
+    - Contract Address: 0x0000000000085d4780B73119b644AE5ecd22b376
+- DUSD
+  - Ethereum Mainnet
+    - [Explorer](https://etherscan.io/token/0x4fabb145d64652a948d72533023f6e7a623c7c53)
+    - Contract Address: 0x4fabb145d64652a948d72533023f6e7a623c7c53
+- GYEN
+  - Ethereum Mainnet
+    - [Explorer](https://etherscan.io/token/0xC08512927D12348F6620a698105e1BAac6EcD911)
+    - Contract Address: 0xC08512927D12348F6620a698105e1BAac6EcD911
 - UNI
   - Arbitrum
-    [Explorer](https://arbiscan.io/token/0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0)
+    - [Explorer](https://arbiscan.io/token/0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0)
     - Contract Address: 0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0
 - LINK
+  - Ethereum Mainnet
+    - [Explorer](https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca)
+    - Contract Address: 0x514910771af9ca656af840dff83e8264ecf986ca
+
   - Optimistic Ethereum
     - [Explorer](https://optimistic.etherscan.io/token/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6)
     - Contract Address: 0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6
@@ -27,7 +54,15 @@
   - Arbitrum
     - [Explorer](https://arbiscan.io/token/0xf97f4df75117a78c1a5a0dbb814af92458539fb4)
     - Contract Address: 0xf97f4df75117a78c1a5a0dbb814af92458539fb4
+- WETH
+  - Ethereum Mainnet
+    - [Explorer](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
+    - Contract Address: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
 - WBTC
+  - Ethereum Mainnet
+    - [Explorer](https://etherscan.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599)
+    - Contract Address: 0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599
+
   - Optimistic Ethereum
     - [Explorer](https://optimistic.etherscan.io/token/0x68f180fcce6836688e9084f035309e29bf0a2095)
     - Contract Address: 0x68f180fcce6836688e9084f035309e29bf0a2095
@@ -35,10 +70,18 @@
   - Arbitrum
     - [Explorer](https://arbiscan.io/token/0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f)
     - Contract Address: 0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f
+- RenBTC
+  - Ethereum Mainnet
+    - [Explorer](https://etherscan.io/token/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d)
+    - Contract Address: 0xeb4c2781e4eba804ce9a9803c67d0893436bb27d
 - DAI
   - Optimistic Ethereum
     - [Explorer](https://optimistic.etherscan.io/token/0xda10009cbd5d07dd0cecc66161fc93d7c9000da1)
     - Contract Address: 0xda10009cbd5d07dd0cecc66161fc93d7c9000da1
+- BNB 
+  - Ethereum Mainnet
+    - [Explorer](https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52)
+    - Contract Address: 0xB8c77482e45F1F44dE1745F52C74426C631bDD52
 
 - GRT
   - Arbitrum
@@ -52,12 +95,10 @@
   - Arbitrum
     - [Explorer](https://arbiscan.io/token/0x354a6da3fcde098f8389cad84b0182725c6c91de)
     - Contract Address: 0x354a6da3fcde098f8389cad84b0182725c6c91de
-
 - SNX
   - Optimistic Ethereum
     - [Explorer](https://optimistic.etherscan.io/token/0x8700daec35af8ff88c16bdf0418774cb3d7599b4)
     - Contract Address: 0x8700daec35af8ff88c16bdf0418774cb3d7599b4
-
 - YFI
   - Arbitrum
     - [Explorer](https://arbiscan.io/token/0x82e3a8f066a6989666b031d916c43672085b1582)
@@ -102,23 +143,23 @@
   - Arbitrum
     - [Explorer](https://arbiscan.io/token/0xa970af1a584579b618be4d69ad6f73459d112f95)
     - Contract Address: 0xa970af1a584579b618be4d69ad6f73459d112f95
-
 - sETH
   - Optimistic Ethereum
     - [Explorer](https://optimistic.etherscan.io/token/0xe405de8f52ba7559f9df3c368500b6e6ae6cee49)
     - Contract Address: 0xe405de8f52ba7559f9df3c368500b6e6ae6cee49
-
 - sBTC
   - Optimistic Ethereum
     - [Explorer](https://optimistic.etherscan.io/token/0x298b9b95708152ff6968aafd889c6586e9169f1d)
     - Contract Address: 0x298b9b95708152ff6968aafd889c6586e9169f1d
-
 - sLINK
   - Optimistic Ethereum
     - [Explorer](https://optimistic.etherscan.io/token/0xc5db22719a06418028a40a9b5e9a7c02959d0d08)
     - Contract Address: 0xc5db22719a06418028a40a9b5e9a7c02959d0d08
-
 - CREAM
   - Arbitrum
     - [Explorer](https://arbiscan.io/token/0xf4d48ce3ee1ac3651998971541badbb9a14d7234)
     - Contract Address: 0xf4d48ce3ee1ac3651998971541badbb9a14d7234
+- BAT
+  - Ethereum Mainnet
+    - [Explorer](https://etherscan.io/token/0x0d8775f648430679a709e98d2b0cb6250d2887ef)
+    - Contract Address: 0x0d8775f648430679a709e98d2b0cb6250d2887ef
