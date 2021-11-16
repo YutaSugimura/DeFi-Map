@@ -253,12 +253,11 @@ Combining the stability of the U.S. dollar with the efficiency of blockchain tec
 - [METAMASK](https://metamask.io/) MetaMask is an extension for accessing Ethereum enabled distributed applications, or "Dapps" in your browser!
   - [docs](https://docs.metamask.io/guide/)
   - [github](https://github.com/MetaMask/)
-  - Apps
-    - [chrome extension](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
-    - [iOS](https://apps.apple.com/us/app/metamask/id1438144202?_branch_match_id=884747436440285416)
-    - [Android](https://play.google.com/store/apps/details?id=io.metamask&hl=en_US&ref=producthunt&_branch_match_id=884747436440285416)
+- [Coinbase Wallet](https://wallet.coinbase.com) The secure app to store crypto yourself Store all your crypto and NFTs in one place, trade 500+ assets on DEXes and earn interest. No Coinbase account required.
 - [Trust Wallet](https://trustwallet.com/) fast and secure multi coin wallet that’s easy to use. ERC20 Compatible
   - [github](https://github.com/trustwallet)
+- [Rainbow](https://rainbow.me/) the Ethereum wallet that lives in your pocket
+  - [github](https://github.com/rainbow-me/rainbow)
 - [InstaDApp](https://instadapp.io/) Scaling DeFi for users and developers with Smart Accounts.
   - [docs](https://docs.instadapp.io/)
   - [github](https://github.com/instadapp)
