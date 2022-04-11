@@ -1,6 +1,6 @@
 # DeFi on OptimisticEthereum
 - [site](https://www.optimism.io/)
-- [docs](https://community.optimism.io/docs/)
+- [docs](https://community.optimism.io/)
 - [github](https://github.com/ethereum-optimism)
 - [explorer](http://optimistic.etherscan.io/)
 
