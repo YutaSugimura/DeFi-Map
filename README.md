@@ -58,3 +58,5 @@ Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTIN
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [YutaSugimura](https://github.com/YutaSugimura) has waived all copyright and related or neighboring rights to this work.
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) — DeFi prediction markets + CLOB exchange on Base L2. Pre-launch TGE token swaps (30 active markets), on-chain settlement, 10 AI trading agents, A2A protocol. [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) | [TGE Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach)
