@@ -2,6 +2,11 @@
 
 DeFi protocol smart contract addresses across major blockchain networks.
 
+> [!WARNING]
+> Contract addresses change over time and this list can lag behind. **Always cross-check every address against the protocol's official documentation before sending funds or interacting with a contract.** Nothing here is an endorsement.
+
+Currently covers 9 of the 14 listed chains: Ethereum, Arbitrum, Optimism, Base, Polygon, BSC, Avalanche, Solana, and Starknet.
+
 ---
 
 ## Ethereum
