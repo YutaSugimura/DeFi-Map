@@ -12,7 +12,7 @@ Thank you for your interest in contributing to DeFi Map! This is a community-cur
 
 ### Fixing Broken Links
 
-If you find a broken link, please [open an issue](https://github.com/YutaSugimura/DeFi-Map/issues/new?template=fix-links.md) or submit a PR with the fix.
+If you find a broken link, please [open an issue](https://github.com/YutaSugimura/DeFi-Map/issues/new?template=fix-links.yml) or submit a PR with the fix.
 
 ### Adding a New Chain
 
