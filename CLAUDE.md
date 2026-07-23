@@ -23,7 +23,7 @@ Two GitHub Actions workflows:
 
 ## Contribution Conventions
 
-- Each DeFi project entry follows a consistent format: `- [Protocol Name](https://url/) Brief description.` followed by indented sub-items (docs, github)
-- `<!-- markdown-link-check-disable/enable -->` comments in `README.md` control the link checker — used around internal relative links
+- Each chain file lists protocols in per-category tables; each entry is one row: `| [Protocol Name](https://url/) | Brief description | [docs](url) · [github](url) |` (use `—` when no docs/github links exist)
+- Internal links use plain relative paths (e.g. `ethereum.md`) so the link checker can validate them
 - Two issue form templates in `.github/ISSUE_TEMPLATE/`: `list-dapp.yml` (add new DApp) and `fix-links.yml` (report broken links)
 - Licensed under CC0 (public domain)

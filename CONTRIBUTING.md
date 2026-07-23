@@ -29,18 +29,18 @@ To be listed, a protocol should meet the following criteria:
 
 ## Entry Format
 
-Each entry must follow this format:
+Each chain file lists protocols in per-category tables. Each entry is one table row:
 
 ```markdown
-- [Protocol Name](https://protocol-url.com/) Brief one-line description.
-  - [docs](https://docs.protocol-url.com/)
-  - [github](https://github.com/protocol-org)
+| Protocol | Description | Links |
+| --- | --- | --- |
+| [Protocol Name](https://protocol-url.com/) | Brief one-line description | [docs](https://docs.protocol-url.com/) · [github](https://github.com/protocol-org) |
 ```
 
 - The protocol name should link to the official website
-- A brief description follows on the same line
-- Sub-items for documentation and GitHub links are indented with two spaces
-- Only include `docs` and `github` sub-items if they exist
+- The description goes in the second column, with no trailing period
+- The Links column holds `docs` and `github` links separated by ` · ` (middle dot)
+- Only include `docs` and `github` links if they exist — use `—` (em dash) when there are none
 
 ## PR Guidelines
 

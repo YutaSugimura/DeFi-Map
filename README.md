@@ -6,44 +6,26 @@
 [![License](https://img.shields.io/badge/license-CC0--1.0-blue)](LICENSE)
 [![Link Check](https://img.shields.io/github/actions/workflow/status/YutaSugimura/DeFi-Map/linkchecker.yml?label=link%20check)](https://github.com/YutaSugimura/DeFi-Map/actions/workflows/linkchecker.yml)
 
-> A curated list of 370+ DeFi protocols across 14 blockchain networks.
-
-## Contents
-
-<!-- markdown-link-check-disable -->
-
-- [Ethereum](#ethereum)
-- [Layer 2](#layer-2)
-- [Alt L1 & Sidechains](#alt-l1--sidechains)
-- [Smart Contract Addresses](#smart-contract-addresses)
-- [Contributing](#contributing)
+> A curated list of 320+ DeFi protocols across 14 blockchain networks.
 
 ## Chains
 
-### Ethereum
-
-- [Ethereum Mainnet](/ethereum.md) — 75 protocols
-
-### Layer 2
-
-- [Arbitrum](/arbitrum.md) — 32 protocols
-- [Base](/base.md) — 31 protocols
-- [Ink](/ink.md) — 15 protocols
-- [Optimism](/optimism.md) — 32 protocols
-- [Starknet](/starknet.md) — 20 protocols
-
-### Alt L1 & Sidechains
-
-- [Avalanche](/avalanche.md) — 23 protocols
-- [BSC](/bsc.md) — 21 protocols
-- [Hyperliquid](/hyperliquid.md) — 17 protocols
-- [Plasma](/plasma.md) — 24 protocols
-- [Polygon](/polygon.md) — 23 protocols
-- [Provenance](/provenance.md) — 7 protocols
-- [Solana](/solana.md) — 30 protocols
-- [Sui](/sui.md) — 23 protocols
-
-<!-- markdown-link-check-enable -->
+| Chain | Type | Protocols |
+| --- | --- | ---: |
+| [Ethereum](ethereum.md) | L1 | 75 |
+| [Arbitrum](arbitrum.md) | L2 | 28 |
+| [Base](base.md) | L2 | 27 |
+| [Ink](ink.md) | L2 | 11 |
+| [Optimism](optimism.md) | L2 | 28 |
+| [Starknet](starknet.md) | L2 | 16 |
+| [Avalanche](avalanche.md) | Alt L1 | 19 |
+| [BSC](bsc.md) | Alt L1 | 17 |
+| [Hyperliquid](hyperliquid.md) | Alt L1 | 14 |
+| [Plasma](plasma.md) | Alt L1 | 20 |
+| [Polygon](polygon.md) | Sidechain | 19 |
+| [Provenance](provenance.md) | Alt L1 | 3 |
+| [Solana](solana.md) | Alt L1 | 26 |
+| [Sui](sui.md) | Alt L1 | 19 |
 
 ## Smart Contract Addresses
 
