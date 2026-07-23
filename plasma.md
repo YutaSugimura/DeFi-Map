@@ -22,13 +22,11 @@
 | [Uniswap](https://uniswap.org/) | Largest DEX by volume | [docs](https://docs.uniswap.org/) · [github](https://github.com/Uniswap) |
 | [PancakeSwap](https://pancakeswap.finance/) | Multi-chain DEX with low fees | [docs](https://docs.pancakeswap.finance/) · [github](https://github.com/pancakeswap) |
 
-## Yield
+## Liquid Staking & Restaking
 
 | Protocol | Description | Links |
 | --- | --- | --- |
-| [Pendle](https://www.pendle.finance/) | Second-largest protocol on Plasma with ~$1B TVL (30% of chain TVL) | [docs](https://docs.pendle.finance/) · [github](https://github.com/pendle-finance) |
-| [Plasma Vaults](https://app.plasma.to/) | Yield vaults powered by Veda infrastructure | [docs](https://docs.veda.tech/vault-deployments/plasma) |
-| [Veda](https://veda.tech/) | Vault infrastructure protocol securing $3.5B+ TVL across networks | [docs](https://docs.veda.tech/) |
+| [ether.fi](https://www.ether.fi/) | Largest weETH supply across all blockchains with ~$600M TVL on Plasma | [github](https://github.com/etherfi-protocol) |
 
 ## Stablecoins
 
@@ -37,11 +35,13 @@
 | [Ethena USDe](https://ethena.fi/) | Synthetic dollar protocol with ~$800M initial liquidity on Plasma | [docs](https://docs.ethena.fi/) · [github](https://github.com/ethena-labs) |
 | [USDT0](https://usdt0.to/) | Tether's omnichain stablecoin powered by LayerZero, native on Plasma | [docs](https://docs.usdt0.to/) |
 
-## Liquid Staking
+## Yield
 
 | Protocol | Description | Links |
 | --- | --- | --- |
-| [ether.fi](https://www.ether.fi/) | Largest weETH supply across all blockchains with ~$600M TVL on Plasma | [github](https://github.com/etherfi-protocol) |
+| [Pendle](https://www.pendle.finance/) | Second-largest protocol on Plasma with ~$1B TVL (30% of chain TVL) | [docs](https://docs.pendle.finance/) · [github](https://github.com/pendle-finance) |
+| [Plasma Vaults](https://app.plasma.to/) | Yield vaults powered by Veda infrastructure | [docs](https://docs.veda.tech/vault-deployments/plasma) |
+| [Veda](https://veda.tech/) | Vault infrastructure protocol securing $3.5B+ TVL across networks | [docs](https://docs.veda.tech/) |
 
 ## Bridge
 

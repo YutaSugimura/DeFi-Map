@@ -63,7 +63,7 @@
 | [Stader ETHx](https://www.staderlabs.com/) | Permissionless liquid staking protocol with ETHx token | [docs](https://www.staderlabs.com/docs-v1/) · [github](https://github.com/stader-labs) |
 | [Frax Ether](https://frax.com/) | Liquid staking derivative offering sfrxETH with competitive yields | [docs](https://docs.frax.finance/) · [github](https://github.com/FraxFinance) |
 
-## Stablecoins & Basis Trading
+## Stablecoins
 
 | Protocol | Description | Links |
 | --- | --- | --- |
@@ -82,6 +82,18 @@
 | [Paxos Gold (PAXG)](https://www.paxos.com/pax-gold/) | Each token is backed by one fine troy ounce of London Good Delivery gold | [github](https://github.com/paxosglobal) |
 | [Centrifuge](https://centrifuge.io/) | Infrastructure for onchain asset management, enabling tokenization and distribution of real-world assets | [docs](https://docs.centrifuge.io/) · [github](https://github.com/centrifuge) |
 | [Figure Markets](https://www.figuremarkets.com/) | Crypto exchange and RWA marketplace for tokenized real-world assets on Provenance Blockchain | [github](https://github.com/provenance-io) |
+
+## Yield
+
+| Protocol | Description | Links |
+| --- | --- | --- |
+| [Pendle](https://www.pendle.finance/) | Yield trading protocol enabling tokenization and trading of future yield | [docs](https://docs.pendle.finance/) · [github](https://github.com/pendle-finance) |
+| [Spark Liquidity Layer](https://spark.fi/) | Automated liquidity provisioning layer that deploys USDS across DeFi protocols and chains within the Sky ecosystem | [docs](https://docs.spark.fi/user-guides/spark-liquidity-layer) · [github](https://github.com/sparkdotfi) |
+| [Convex Finance](https://www.convexfinance.com/) | Platform for boosting Curve LP rewards without locking CRV | [github](https://github.com/convex-eth) |
+| [Aura Finance](https://aura.finance/) | Yield booster for Balancer LPs, providing boosted BAL rewards and AURA incentives without locking veBAL | [docs](https://docs.aura.finance/) · [github](https://github.com/aurafinance) |
+| [Yearn Finance](https://yearn.fi/) | Yield aggregator that automatically optimizes DeFi yield strategies across multiple protocols | [docs](https://docs.yearn.fi/) · [github](https://github.com/yearn) |
+| [Veda](https://www.veda.tech/) | DeFi vault platform enabling protocols and applications to build cross-chain yield products via the BoringVault standard | [docs](https://docs.veda.tech/) · [github](https://github.com/Veda-Labs) |
+| [Sommelier](https://somm.finance/) | DeFi vault protocol using off-chain computation to manage on-chain Cellar vaults for optimized yield strategies | [docs](https://sommelier-finance.gitbook.io/sommelier-documentation) · [github](https://github.com/PeggyJV) |
 
 ## Bridge
 
@@ -102,18 +114,6 @@
 | [Wormhole](https://wormhole.com/) | Cross-chain messaging and token bridge protocol connecting 30+ blockchain networks | [docs](https://wormhole.com/docs/) · [github](https://github.com/wormhole-foundation) |
 | [Stargate](https://stargate.finance/) | Cross-chain bridge protocol powered by LayerZero | [docs](https://stargateprotocol.gitbook.io/stargate) · [github](https://github.com/stargate-protocol) |
 | [Across](https://across.to/) | Intent-based bridge providing fast cross-chain transfers from rollups to Ethereum | [docs](https://docs.across.to/) · [github](https://github.com/across-protocol) |
-
-## Yield
-
-| Protocol | Description | Links |
-| --- | --- | --- |
-| [Pendle](https://www.pendle.finance/) | Yield trading protocol enabling tokenization and trading of future yield | [docs](https://docs.pendle.finance/) · [github](https://github.com/pendle-finance) |
-| [Spark Liquidity Layer](https://spark.fi/) | Automated liquidity provisioning layer that deploys USDS across DeFi protocols and chains within the Sky ecosystem | [docs](https://docs.spark.fi/user-guides/spark-liquidity-layer) · [github](https://github.com/sparkdotfi) |
-| [Convex Finance](https://www.convexfinance.com/) | Platform for boosting Curve LP rewards without locking CRV | [github](https://github.com/convex-eth) |
-| [Aura Finance](https://aura.finance/) | Yield booster for Balancer LPs, providing boosted BAL rewards and AURA incentives without locking veBAL | [docs](https://docs.aura.finance/) · [github](https://github.com/aurafinance) |
-| [Yearn Finance](https://yearn.fi/) | Yield aggregator that automatically optimizes DeFi yield strategies across multiple protocols | [docs](https://docs.yearn.fi/) · [github](https://github.com/yearn) |
-| [Veda](https://www.veda.tech/) | DeFi vault platform enabling protocols and applications to build cross-chain yield products via the BoringVault standard | [docs](https://docs.veda.tech/) · [github](https://github.com/Veda-Labs) |
-| [Sommelier](https://somm.finance/) | DeFi vault protocol using off-chain computation to manage on-chain Cellar vaults for optimized yield strategies | [docs](https://sommelier-finance.gitbook.io/sommelier-documentation) · [github](https://github.com/PeggyJV) |
 
 ## Infrastructure
 

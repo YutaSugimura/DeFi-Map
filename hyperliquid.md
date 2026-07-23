@@ -4,13 +4,6 @@
 
 ---
 
-## Liquid Staking
-
-| Protocol | Description | Links |
-| --- | --- | --- |
-| [Kinetiq](https://kinetiq.xyz/) | Largest liquid staking protocol with kHYPE token and $747M+ TVL | [docs](https://kinetiq.xyz/docs) |
-| [StakedHype](https://www.stakedhype.fi/) | Liquid staking with stHYPE token and $123M TVL | — |
-
 ## Lending & Borrowing
 
 | Protocol | Description | Links |
@@ -27,6 +20,13 @@
 | [Hyperliquid Spot Orderbook](https://app.hyperliquid.xyz/) | Spot trading with $185M TVL | — |
 | [Valantis](https://www.valantis.xyz/) | Modular DEX with embedded liquidity and $143M TVL | — |
 
+## Liquid Staking & Restaking
+
+| Protocol | Description | Links |
+| --- | --- | --- |
+| [Kinetiq](https://kinetiq.xyz/) | Largest liquid staking protocol with kHYPE token and $747M+ TVL | [docs](https://kinetiq.xyz/docs) |
+| [StakedHype](https://www.stakedhype.fi/) | Liquid staking with stHYPE token and $123M TVL | — |
+
 ## Yield
 
 | Protocol | Description | Links |
@@ -35,11 +35,6 @@
 | [Pendle](https://www.pendle.finance/) | Yield trading protocol with $81M TVL on Hyperliquid | [docs](https://docs.pendle.finance/) · [github](https://github.com/pendle-finance) |
 | [Upshift](https://www.upshift.finance/) | Institutional-grade yield platform with $55M TVL | [docs](https://docs.upshift.finance/) |
 | [Veda](https://veda.tech/) | Vault infrastructure protocol with $51M TVL on Hyperliquid | [docs](https://docs.veda.tech/) |
-
-## Vaults
-
-| Protocol | Description | Links |
-| --- | --- | --- |
 | [Hyperliquid HLP](https://app.hyperliquid.xyz/vaults) | Protocol vault for market making and liquidations with $357M TVL | [docs](https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/vaults) |
 
 ## Infrastructure

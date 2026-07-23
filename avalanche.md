@@ -31,7 +31,7 @@
 | [GMX](https://gmx.io/) | Decentralized perpetual exchange with low fees and minimal price impact | [docs](https://docs.gmx.io/) · [github](https://github.com/gmx-io) |
 | [DeltaPrime](https://deltaprime.io/) | Leveraged yield farming protocol on Avalanche | [docs](https://docs.deltaprime.io/) · [github](https://github.com/DeltaPrimeLabs) |
 
-## Liquid Staking
+## Liquid Staking & Restaking
 
 | Protocol | Description | Links |
 | --- | --- | --- |

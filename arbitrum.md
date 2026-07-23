@@ -43,6 +43,13 @@
 | [Kelp DAO](https://kerneldao.com/kelp/) | Multi-chain liquid restaking protocol | [docs](https://kelp.gitbook.io/kelp) · [github](https://github.com/Kelp-DAO) |
 | [Renzo](https://www.renzoprotocol.com/) | Liquid restaking protocol built on EigenLayer | [docs](https://docs.renzoprotocol.com/) · [github](https://github.com/Renzo-Protocol) |
 
+## RWA (Real World Assets)
+
+| Protocol | Description | Links |
+| --- | --- | --- |
+| [USD.AI](https://usd.ai/) | Yield-bearing stablecoin backed by AI infrastructure financing | [docs](https://docs.usd.ai/) |
+| [Spiko](https://www.spiko.io/) | Tokenized money market fund shares on-chain | [github](https://github.com/spiko-tech) |
+
 ## Yield
 
 | Protocol | Description | Links |
@@ -59,10 +66,3 @@
 | [Hyperliquid Bridge](https://app.hyperliquid.xyz/) | Bridge to Hyperliquid L1 perpetual exchange | [docs](https://hyperliquid.gitbook.io/hyperliquid-docs) |
 | [Stargate](https://stargate.finance/) | Cross-chain bridge protocol powered by LayerZero | [docs](https://stargateprotocol.gitbook.io/stargate) · [github](https://github.com/stargate-protocol) |
 | [Synapse](https://synapseprotocol.com/) | Cross-chain liquidity network and bridge | [docs](https://docs.synapseprotocol.com/) · [github](https://github.com/synapsecns) |
-
-## RWA (Real World Assets)
-
-| Protocol | Description | Links |
-| --- | --- | --- |
-| [USD.AI](https://usd.ai/) | Yield-bearing stablecoin backed by AI infrastructure financing | [docs](https://docs.usd.ai/) |
-| [Spiko](https://www.spiko.io/) | Tokenized money market fund shares on-chain | [github](https://github.com/spiko-tech) |

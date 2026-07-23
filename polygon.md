@@ -22,6 +22,19 @@
 | [Balancer](https://balancer.fi/) | Programmable liquidity protocol with weighted pools | [docs](https://docs.balancer.fi/) · [github](https://github.com/balancer) |
 | [SushiSwap](https://sushi.com/) | Multi-chain DEX with swap aggregation | [docs](https://docs.sushi.com/) · [github](https://github.com/sushiswap) |
 
+## Prediction Markets
+
+| Protocol | Description | Links |
+| --- | --- | --- |
+| [Polymarket](https://polymarket.com/) | Decentralized prediction market platform | [docs](https://docs.polymarket.com/) · [github](https://github.com/polymarket) |
+
+## Liquid Staking & Restaking
+
+| Protocol | Description | Links |
+| --- | --- | --- |
+| [Stader (MaticX)](https://www.staderlabs.com/) | Liquid staking protocol for MATIC with MaticX token | [docs](https://www.staderlabs.com/docs-v1/) · [github](https://github.com/stader-labs) |
+| [Lido (stMATIC)](https://lido.fi/) | Liquid staking solution for MATIC | [docs](https://docs.lido.fi/) |
+
 ## RWA (Real World Assets)
 
 | Protocol | Description | Links |
@@ -30,19 +43,6 @@
 | [Spiko](https://www.spiko.io/) | Tokenized money market fund shares on-chain | [github](https://github.com/spiko-tech) |
 | [BlackRock BUIDL](https://securitize.io/blackrock/buidl) | Tokenized fund by BlackRock distributed via Securitize | — |
 | [Tangible RWA](https://www.tangible.store/) | Tokenized real-world assets marketplace | [docs](https://docs.tangible.store/) |
-
-## Prediction Markets
-
-| Protocol | Description | Links |
-| --- | --- | --- |
-| [Polymarket](https://polymarket.com/) | Decentralized prediction market platform | [docs](https://docs.polymarket.com/) · [github](https://github.com/polymarket) |
-
-## Liquid Staking
-
-| Protocol | Description | Links |
-| --- | --- | --- |
-| [Stader (MaticX)](https://www.staderlabs.com/) | Liquid staking protocol for MATIC with MaticX token | [docs](https://www.staderlabs.com/docs-v1/) · [github](https://github.com/stader-labs) |
-| [Lido (stMATIC)](https://lido.fi/) | Liquid staking solution for MATIC | [docs](https://docs.lido.fi/) |
 
 ## Yield
 

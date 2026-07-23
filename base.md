@@ -52,6 +52,7 @@
 | [Pendle](https://www.pendle.finance/) | Yield trading protocol for tokenizing future yield | [docs](https://docs.pendle.finance/) · [github](https://github.com/pendle-finance) |
 | [Superform](https://superform.xyz/) | Cross-chain yield aggregator | [docs](https://docs.superform.xyz/) |
 | [Spark Liquidity Layer](https://spark.fi/) | Automated liquidity provisioning layer deploying USDS across DeFi protocols within the Sky ecosystem | [docs](https://docs.spark.fi/user-guides/spark-liquidity-layer) · [github](https://github.com/sparkdotfi) |
+| [dHEDGE](https://dhedge.org/) | Decentralized asset management protocol | [docs](https://docs.dhedge.org/) · [github](https://github.com/dhedge) |
 
 ## Bridge
 
@@ -59,9 +60,8 @@
 | --- | --- | --- |
 | [Stargate](https://stargate.finance/) | Cross-chain bridge protocol powered by LayerZero | [docs](https://stargateprotocol.gitbook.io/stargate) · [github](https://github.com/stargate-protocol) |
 
-## Others
+## Infrastructure
 
 | Protocol | Description | Links |
 | --- | --- | --- |
 | [DeFi Saver](https://defisaver.com/) | Advanced DeFi management and CDP automation tool | [docs](https://docs.defisaver.com/) · [github](https://github.com/defisaver) |
-| [dHEDGE](https://dhedge.org/) | Decentralized asset management protocol | [docs](https://docs.dhedge.org/) · [github](https://github.com/dhedge) |

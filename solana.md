@@ -31,7 +31,7 @@
 | [Zeta Markets](https://zeta.markets/) | On-chain CLOB options and perpetuals protocol | [docs](https://docs.zeta.markets/) · [github](https://github.com/zetamarkets) |
 | [Flash Trade](https://flash.trade/) | Perpetuals DEX with up to 100x leverage and pool-to-peer model | [docs](https://docs.flash.trade/) |
 
-## Liquid Staking
+## Liquid Staking & Restaking
 
 | Protocol | Description | Links |
 | --- | --- | --- |
@@ -41,11 +41,6 @@
 | [Sanctum](https://sanctum.so/) | Unified liquidity layer for Solana LSTs with INF token | [docs](https://learn.sanctum.so/) · [github](https://github.com/igneous-labs) |
 | [Jupiter Staked SOL](https://jup.ag/) | SOL liquid staking by Jupiter | [docs](https://station.jup.ag/docs) · [github](https://github.com/jup-ag) |
 | [Bybit Staked SOL (bbSOL)](https://www.bybit.com/) | Liquid staking token for SOL provided by Bybit | — |
-
-## Restaking
-
-| Protocol | Description | Links |
-| --- | --- | --- |
 | [Fragmetric](https://fragmetric.xyz/) | Largest liquid restaking protocol on Solana with fragSOL | [docs](https://docs.fragmetric.xyz/) |
 | [Solayer](https://solayer.org/) | Stake-weighted QoS restaking protocol for Solana dApps | [docs](https://docs.solayer.org/) · [github](https://github.com/solayer-labs) |
 
@@ -56,6 +51,12 @@
 | [BlackRock BUIDL](https://securitize.io/blackrock/buidl) | Tokenized fund by BlackRock distributed via Securitize | — |
 | [Ondo Finance](https://ondo.finance/) | Institutional-grade tokenized real-world assets on-chain | [docs](https://docs.ondo.finance/) |
 
+## Yield
+
+| Protocol | Description | Links |
+| --- | --- | --- |
+| [Kamino Liquidity](https://kamino.finance/) | Automated concentrated liquidity management on Solana | [docs](https://docs.kamino.finance/) · [github](https://github.com/Kamino-Finance) |
+
 ## Bridge
 
 | Protocol | Description | Links |
@@ -63,9 +64,8 @@
 | [Wormhole](https://wormhole.com/) | Cross-chain messaging protocol connecting Solana to 30+ networks | [docs](https://docs.wormhole.com/) · [github](https://github.com/wormhole-foundation) |
 | [Allbridge](https://allbridge.io/) | Stablecoin-focused cross-chain bridge | [docs](https://docs.allbridge.io/) |
 
-## Others
+## Infrastructure
 
 | Protocol | Description | Links |
 | --- | --- | --- |
-| [Kamino Liquidity](https://kamino.finance/) | Automated concentrated liquidity management on Solana | [docs](https://docs.kamino.finance/) · [github](https://github.com/Kamino-Finance) |
 | [Pyth Network](https://pyth.network/) | Leading oracle providing real-time price feeds for Solana DeFi | [docs](https://docs.pyth.network/) · [github](https://github.com/pyth-network) |

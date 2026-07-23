@@ -23,7 +23,14 @@
 | [Kriya](https://app.kriya.finance/) | DEX with spot trading and perpetuals on Sui | [docs](https://docs.kriya.finance/) |
 | [FlowX Finance](https://flowx.finance/) | AMM DEX with concentrated liquidity on Sui | [docs](https://docs.flowx.finance/) · [github](https://github.com/FlowX-Finance) |
 
-## Liquid Staking
+## Derivatives
+
+| Protocol | Description | Links |
+| --- | --- | --- |
+| [Bluefin](https://bluefin.io/) | Order book perpetual exchange on Sui with low latency trading | [docs](https://learn.bluefin.io/) · [github](https://github.com/fireflyprotocol) |
+| [Typus Finance](https://typus.finance/) | Options and structured products protocol on Sui | [docs](https://docs.typus.finance/) · [github](https://github.com/Typus-Lab) |
+
+## Liquid Staking & Restaking
 
 | Protocol | Description | Links |
 | --- | --- | --- |
@@ -32,14 +39,7 @@
 | [Haedal](https://www.haedal.xyz/) | Liquid staking protocol on Sui with haSUI token | [docs](https://haedal-protocol.gitbook.io/haedal-protocol-docs) · [github](https://github.com/haedal-xyz) |
 | [SpringSui](https://springsui.com/) | Infinitely liquid staking protocol by Suilend with sSUI | [docs](https://docs.suilend.fi/springsui) |
 
-## Derivatives
-
-| Protocol | Description | Links |
-| --- | --- | --- |
-| [Bluefin](https://bluefin.io/) | Order book perpetual exchange on Sui with low latency trading | [docs](https://learn.bluefin.io/) · [github](https://github.com/fireflyprotocol) |
-| [Typus Finance](https://typus.finance/) | Options and structured products protocol on Sui | [docs](https://docs.typus.finance/) · [github](https://github.com/Typus-Lab) |
-
-## CDP & Stablecoins
+## Stablecoins
 
 | Protocol | Description | Links |
 | --- | --- | --- |
