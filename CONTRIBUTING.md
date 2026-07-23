@@ -27,27 +27,45 @@ To be listed, a protocol should meet the following criteria:
 - **Official website** — A working, publicly accessible website is required
 - **Non-malicious** — No known scams, rugs, or exploits with unresolved user losses
 
+## Categories
+
+Every entry belongs to one of the canonical categories below. Chain files use only the categories they need, always in this order:
+
+1. Lending & Borrowing
+2. DEX
+3. Derivatives
+4. Prediction Markets
+5. Liquid Staking & Restaking
+6. Stablecoins
+7. RWA (Real World Assets)
+8. Yield
+9. Bridge
+10. Infrastructure
+11. Insurance
+
+Do not invent new categories in a PR — if none of these fit, open an issue first.
+
 ## Entry Format
 
-Each entry must follow this format:
+Each chain file lists protocols in per-category tables. Each entry is one table row:
 
 ```markdown
-- [Protocol Name](https://protocol-url.com/) Brief one-line description.
-  - [docs](https://docs.protocol-url.com/)
-  - [github](https://github.com/protocol-org)
+| Protocol | Description | Links |
+| --- | --- | --- |
+| [Protocol Name](https://protocol-url.com/) | Brief one-line description | [docs](https://docs.protocol-url.com/) · [github](https://github.com/protocol-org) |
 ```
 
 - The protocol name should link to the official website
-- A brief description follows on the same line
-- Sub-items for documentation and GitHub links are indented with two spaces
-- Only include `docs` and `github` sub-items if they exist
+- The description goes in the second column, with no trailing period
+- The Links column holds `docs` and `github` links separated by ` · ` (middle dot)
+- Only include `docs` and `github` links if they exist — use `—` (em dash) when there are none
 
 ## PR Guidelines
 
 - **Semantic PR title** — Use a prefix like `feat:`, `fix:`, `docs:`, or `chore:` (e.g., `feat: add Aave to Arbitrum`)
 - **One chain per PR** — Keep changes focused; one PR per chain file is preferred
 - **Verify links** — Make sure all URLs are valid and point to the correct pages
-- **Alphabetical order** — Add entries in alphabetical order within their category section
+- **Curated order** — Entries are ordered by prominence (TVL, adoption) within their category, most significant first; add new entries where they fit, not alphabetically
 
 ## Link Checker
 

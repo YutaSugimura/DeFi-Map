@@ -128,7 +128,7 @@ DeFi protocol smart contract addresses across major blockchain networks.
   - SSV Token: `0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54` - [Explorer](https://etherscan.io/address/0x9D65fF81a3c488d585bBfb0Bfe3c7707c7917f54)
   - SSVNetwork (Core Contract): `0xDD9BC35aE942eF0cFa76930954a156B3fF30a4E1` - [Explorer](https://etherscan.io/address/0xDD9BC35aE942eF0cFa76930954a156B3fF30a4E1)
 
-### Stablecoins & Basis Trading
+### Stablecoins
 
 - Ethena
   - USDe: `0x4c9EDD5852cd905f086C759E8383e09bff1E68B3` - [Explorer](https://etherscan.io/token/0x4c9EDD5852cd905f086C759E8383e09bff1E68B3)
@@ -441,7 +441,7 @@ DeFi protocol smart contract addresses across major blockchain networks.
   - CTF Exchange: `0x4bFb41d5B3570DeFd03C39a9A4D8dE6Bd8B8982E` - [Explorer](https://polygonscan.com/address/0x4bFb41d5B3570DeFd03C39a9A4D8dE6Bd8B8982E)
   - Conditional Tokens: `0x4D97DCd97eC945f40cF65F87097ACe5EA0476045` - [Explorer](https://polygonscan.com/address/0x4D97DCd97eC945f40cF65F87097ACe5EA0476045)
 
-### Liquid Staking
+### Liquid Staking & Restaking
 
 - Stader MaticX
   - MaticX Token: `0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6` - [Explorer](https://polygonscan.com/address/0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6)
@@ -500,7 +500,7 @@ DeFi protocol smart contract addresses across major blockchain networks.
 - Alpaca Finance
   - ALPACA Token: `0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F` - [Explorer](https://bscscan.com/address/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F)
 
-### Liquid Staking
+### Liquid Staking & Restaking
 
 - Lista DAO
   - LISTA Token: `0xFceB31A79F71AC9CBDCF853519c1b12D379EdC46` - [Explorer](https://bscscan.com/token/0xFceB31A79F71AC9CBDCF853519c1b12D379EdC46)
@@ -557,7 +557,7 @@ DeFi protocol smart contract addresses across major blockchain networks.
   - GMX Token: `0x62edc0692BD897D2295872a9FFCac5425011c661` - [Explorer](https://snowscan.xyz/token/0x62edc0692BD897D2295872a9FFCac5425011c661)
   - Vault: `0x9ab2De34A33fB459b538c43f251eB825645e8595` - [Explorer](https://snowtrace.io/address/0x9ab2De34A33fB459b538c43f251eB825645e8595)
 
-### Liquid Staking
+### Liquid Staking & Restaking
 
 - Benqi sAVAX
   - sAVAX Token: `0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE` - [Explorer](https://snowtrace.io/address/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE)
@@ -614,7 +614,7 @@ DeFi protocol smart contract addresses across major blockchain networks.
   - Main Program: `dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH` - [Explorer](https://solscan.io/account/dRiftyHA39MWEi3m9aunc5MzRF1JYuBsbn6VPcn33UH)
   - DRIFT Token: `DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7` - [Explorer](https://solscan.io/token/DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7)
 
-### Liquid Staking
+### Liquid Staking & Restaking
 
 - Jito
   - JitoSOL Token: `J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn` - [Explorer](https://solscan.io/token/J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn)
