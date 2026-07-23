@@ -27,7 +27,7 @@
 | Protocol | Description | Links |
 | --- | --- | --- |
 | [Jupiter Perpetual (JLP)](https://jup.ag/) | Largest perpetual exchange on Solana with 75% fee share to LPs | [docs](https://station.jup.ag/docs) · [github](https://github.com/jup-ag) |
-| [Drift](https://www.drift.trade/) | Perpetual and spot exchange with up to 101x leverage | [docs](https://docs.drift.trade/) · [github](https://github.com/drift-labs) |
+| [Drift](https://www.drift.trade/) | Perpetual and spot exchange with up to 101x leverage | [docs](https://docs.drift.trade/) · [github](https://github.com/velocity-exchange) |
 | [Zeta Markets](https://zeta.markets/) | On-chain CLOB options and perpetuals protocol | [docs](https://docs.zeta.markets/) · [github](https://github.com/zetamarkets) |
 | [Flash Trade](https://flash.trade/) | Perpetuals DEX with up to 100x leverage and pool-to-peer model | [docs](https://docs.flash.trade/) |
 

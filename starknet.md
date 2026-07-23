@@ -17,7 +17,6 @@
 | --- | --- | --- |
 | [Ekubo](https://ekubo.org/) | Dominant concentrated liquidity AMM with 60% of Starknet AMM TVL | [docs](https://docs.ekubo.org/) · [github](https://github.com/EkuboProtocol) |
 | [mySwap](https://www.myswap.xyz/) | AMM with concentrated liquidity on Starknet | [docs](https://docs.myswap.xyz/) |
-| [JediSwap](https://www.jediswap.xyz/) | Community-driven AMM on Starknet | [docs](https://docs.jediswap.xyz/) · [github](https://github.com/jediswaplabs) |
 | [AVNU](https://avnu.fi/) | Leading DEX aggregator powering Starknet spot trading | [docs](https://docs.avnu.fi/) · [github](https://github.com/avnu-labs) |
 | [Fibrous](https://fibrous.finance/) | Multi-path swap optimizer with batch trading | [docs](https://docs.fibrous.finance/) |
 

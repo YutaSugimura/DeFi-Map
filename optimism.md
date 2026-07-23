@@ -26,7 +26,7 @@
 | Protocol | Description | Links |
 | --- | --- | --- |
 | [Kwenta](https://kwenta.io/) | Perpetual futures trading platform built on Synthetix | [docs](https://docs.kwenta.io/) · [github](https://github.com/Kwenta) |
-| [Perpetual Protocol](https://perp.com/) | Decentralized perpetual futures DEX | [docs](https://docs.perp.com/) · [github](https://github.com/perpetual-protocol) |
+| [Perpetual Protocol](https://perp.com/) | Decentralized perpetual futures DEX | [github](https://github.com/perpetual-protocol) |
 | [Pika Protocol](https://pikaprotocol.com/) | Perpetual swaps with up to 200x leverage | [docs](https://pikaprotocol.gitbook.io/pika-protocol) |
 | [Polynomial](https://polynomial.fi/) | Automated derivative strategies protocol | [docs](https://docs.polynomial.fi/) |
 | [Derive (Lyra)](https://derive.xyz/) | Options trading protocol with automated market making | [docs](https://docs.derive.xyz/) · [github](https://github.com/lyra-finance) |
@@ -56,7 +56,7 @@
 
 | Protocol | Description | Links |
 | --- | --- | --- |
-| [Optimism Bridge](https://app.optimism.io/bridge) | Official bridge for moving assets to and from Optimism | [docs](https://docs.optimism.io/builders/app-developers/bridging/basics) |
+| [Optimism Bridge](https://app.optimism.io/bridge) | Official bridge for moving assets to and from Optimism | [docs](https://docs.optimism.io/app-developers/bridging/basics) |
 | [Stargate](https://stargate.finance/) | Cross-chain liquidity transport protocol with native asset transfers | [docs](https://docs.stargate.finance/) · [github](https://github.com/stargate-protocol) |
 | [Hop Protocol](https://hop.exchange/) | Fast bridge for rollups and L2s | [docs](https://docs.hop.exchange/) · [github](https://github.com/hop-protocol) |
 | [Across](https://across.to/) | Intent-based bridge for fast cross-chain transfers | [docs](https://docs.across.to/) · [github](https://github.com/across-protocol) |

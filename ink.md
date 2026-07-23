@@ -15,7 +15,7 @@
 | Protocol | Description | Links |
 | --- | --- | --- |
 | [Nado](https://www.nado.xyz/) | Unified orderbook DEX for spot and perpetual futures with $40M+ TVL | [docs](https://docs.nado.xyz) |
-| [Velodrome](https://velodrome.finance/) | ve(3,3) AMM with $14M TVL on Ink | [docs](https://docs.velodrome.finance/) · [github](https://github.com/velodrome-finance) |
+| [Velodrome](https://velodrome.finance/) | ve(3,3) AMM with $14M TVL on Ink | [docs](https://velodrome.finance/docs) · [github](https://github.com/velodrome-finance) |
 | [Reservoir/Relay](https://relay.link/) | Liquidity infrastructure with CLMM and AMM | — |
 | [InkySwap](https://inkyswap.com/) | Native DEX on Ink with $1M+ TVL | — |
 | [SuperSwap](https://superswap.ink/) | First DEX aggregator on Ink with Velodrome pool integration | — |

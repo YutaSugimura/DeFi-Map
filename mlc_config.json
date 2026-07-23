@@ -1,4 +1,7 @@
 {
+  "ignorePatterns": [
+    { "pattern": "^https://github\\.com/[^/]+/[^/]+/(stargazers|network/members)$" }
+  ],
   "retryOn429": true,
   "retryCount": 3,
   "fallbackRetryDelay": "30s",

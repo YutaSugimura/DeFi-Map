@@ -40,7 +40,7 @@
 | --- | --- | --- |
 | [wstETH (Lido)](https://lido.fi/) | Largest liquid staking token on Arbitrum, widely used as collateral in Aave, Pendle, and Silo | [docs](https://docs.lido.fi/) |
 | [ether.fi](https://www.ether.fi/) | Decentralized, non-custodial liquid staking and restaking protocol | [github](https://github.com/etherfi-protocol) |
-| [Kelp DAO](https://kerneldao.com/kelp/) | Multi-chain liquid restaking protocol | [docs](https://kelp.gitbook.io/kelp) · [github](https://github.com/Kelp-DAO) |
+| [Kelp DAO](https://kerneldao.com/kelp/) | Multi-chain liquid restaking protocol | [github](https://github.com/Kelp-DAO) |
 | [Renzo](https://www.renzoprotocol.com/) | Liquid restaking protocol built on EigenLayer | [docs](https://docs.renzoprotocol.com/) · [github](https://github.com/Renzo-Protocol) |
 
 ## RWA (Real World Assets)

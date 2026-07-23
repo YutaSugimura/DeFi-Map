@@ -20,7 +20,6 @@
 | [DeepBook](https://deepbook.tech/) | Native on-chain order book DEX on Sui | [github](https://github.com/MystenLabs/deepbookv3) |
 | [Turbos Finance](https://turbos.finance/) | DEX with concentrated liquidity and perpetuals on Sui | [docs](https://turbos.gitbook.io/turbos) · [github](https://github.com/turbos-finance) |
 | [Aftermath Finance](https://aftermath.finance/) | DEX aggregator with liquid staking via afSUI | [docs](https://docs.aftermath.finance/) · [github](https://github.com/AftermathFinance) |
-| [Kriya](https://app.kriya.finance/) | DEX with spot trading and perpetuals on Sui | [docs](https://docs.kriya.finance/) |
 | [FlowX Finance](https://flowx.finance/) | AMM DEX with concentrated liquidity on Sui | [docs](https://docs.flowx.finance/) · [github](https://github.com/FlowX-Finance) |
 
 ## Derivatives
