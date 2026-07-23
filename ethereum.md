@@ -54,7 +54,7 @@
 | [SSV Network](https://ssv.network/) | Distributed validator technology splitting validator keys across multiple operators for secure decentralized staking | [docs](https://docs.ssv.network/) · [github](https://github.com/ssvlabs) |
 | [Rocket Pool](https://rocketpool.net/) | Decentralized Ethereum staking protocol | [docs](https://docs.rocketpool.net/) · [github](https://github.com/rocket-pool) |
 | [Symbiotic](https://symbiotic.fi/) | Universal staking framework enabling decentralized networks to bootstrap sovereign ecosystems | [docs](https://docs.symbiotic.fi/) · [github](https://github.com/symbioticfi) |
-| [Kelp DAO](https://kerneldao.com/kelp/) | Multi-chain liquid restaking protocol offering rsETH | [docs](https://kelp.gitbook.io/kelp) · [github](https://github.com/Kelp-DAO) |
+| [Kelp DAO](https://kerneldao.com/kelp/) | Multi-chain liquid restaking protocol offering rsETH | [github](https://github.com/Kelp-DAO) |
 | [Renzo](https://www.renzoprotocol.com/) | Liquid restaking protocol built on EigenLayer | [docs](https://docs.renzoprotocol.com/) · [github](https://github.com/Renzo-Protocol) |
 | [Swell](https://www.swellnetwork.io/) | Non-custodial liquid staking and restaking protocol | [github](https://github.com/SwellNetwork) |
 | [Puffer Finance](https://puffer.fi/) | Decentralized native liquid restaking protocol with anti-slashing technology | [docs](https://docs.puffer.fi/) · [github](https://github.com/PufferFinance) |
@@ -70,7 +70,7 @@
 | [Ethena](https://ethena.fi/) | Synthetic dollar protocol providing the crypto-native stablecoin USDe | [docs](https://docs.ethena.fi/) · [github](https://github.com/ethena-labs) |
 | [Falcon Finance](https://falcon.finance/) | Universal collateralization infrastructure generating yield through basis spread and funding rate arbitrage strategies | [docs](https://docs.falcon.finance) |
 | [Usual](https://usual.money/) | RWA-backed stablecoin protocol issuing USD0, backed by tokenized US Treasury Bills | [docs](https://docs.usual.money/) · [github](https://github.com/usual-dao) |
-| [Resolv](https://resolv.xyz/) | Delta-neutral stablecoin protocol issuing USR, fully backed by ETH with perpetual futures hedging | [docs](https://docs.resolv.xyz/) · [github](https://github.com/resolv-im/resolv-contracts-public) |
+| [Resolv](https://resolv.xyz/) | Delta-neutral stablecoin protocol issuing USR, fully backed by ETH with perpetual futures hedging | [docs](https://docs.resolv.xyz/) |
 
 ## RWA (Real World Assets)
 

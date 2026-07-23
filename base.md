@@ -38,7 +38,7 @@
 | [Origin Super OETH](https://www.oeth.com/) | Yield-generating liquid staking token on Base | [docs](https://docs.oeth.com/) · [github](https://github.com/OriginProtocol) |
 | [cbETH (Coinbase)](https://www.coinbase.com/cbeth) | Coinbase wrapped staked ETH on Base | — |
 | [wstETH (Lido)](https://lido.fi/) | Wrapped staked ETH available on Base | [docs](https://docs.lido.fi/) |
-| [Kelp DAO](https://kerneldao.com/kelp/) | Multi-chain liquid restaking protocol with rsETH | [docs](https://kelp.gitbook.io/kelp) · [github](https://github.com/Kelp-DAO) |
+| [Kelp DAO](https://kerneldao.com/kelp/) | Multi-chain liquid restaking protocol with rsETH | [github](https://github.com/Kelp-DAO) |
 | [Renzo](https://www.renzoprotocol.com/) | Liquid restaking protocol with ezETH | [docs](https://docs.renzoprotocol.com/) · [github](https://github.com/Renzo-Protocol) |
 | [ether.fi](https://www.ether.fi/) | Decentralized liquid staking and restaking protocol with weETH | [github](https://github.com/etherfi-protocol) |
 

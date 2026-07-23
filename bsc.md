@@ -11,7 +11,6 @@
 | [Venus](https://venus.io/) | Largest decentralized money market and stablecoin protocol on BSC | [docs](https://docs-v4.venus.io/) · [github](https://github.com/VenusProtocol) |
 | [Kinza Finance](https://kinza.finance/) | Fast-growing lending protocol on BNB Chain | [docs](https://docs.kinza.finance/) |
 | [Aave V3](https://aave.com/) | Open-source, non-custodial liquidity protocol for earning interest and borrowing assets | [docs](https://aave.com/docs) · [github](https://github.com/aave) |
-| [Alpaca Finance](https://www.alpacafinance.org/) | Leveraged yield farming protocol | [github](https://github.com/alpaca-finance) |
 
 ## DEX
 

@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-CC0--1.0-blue)](LICENSE)
 [![Link Check](https://img.shields.io/github/actions/workflow/status/YutaSugimura/DeFi-Map/linkchecker.yml?label=link%20check)](https://github.com/YutaSugimura/DeFi-Map/actions/workflows/linkchecker.yml)
 
-> A curated list of 320+ DeFi protocols across 14 blockchain networks.
+> A curated list of 310+ DeFi protocols across 14 blockchain networks.
 
 ## Chains
 
@@ -17,15 +17,15 @@
 | [Base](base.md) | L2 | 27 |
 | [Ink](ink.md) | L2 | 11 |
 | [Optimism](optimism.md) | L2 | 28 |
-| [Starknet](starknet.md) | L2 | 16 |
-| [Avalanche](avalanche.md) | Alt L1 | 19 |
-| [BSC](bsc.md) | Alt L1 | 17 |
+| [Starknet](starknet.md) | L2 | 15 |
+| [Avalanche](avalanche.md) | Alt L1 | 18 |
+| [BSC](bsc.md) | Alt L1 | 16 |
 | [Hyperliquid](hyperliquid.md) | Alt L1 | 14 |
 | [Plasma](plasma.md) | Alt L1 | 20 |
 | [Polygon](polygon.md) | Sidechain | 19 |
 | [Provenance](provenance.md) | Alt L1 | 3 |
 | [Solana](solana.md) | Alt L1 | 26 |
-| [Sui](sui.md) | Alt L1 | 19 |
+| [Sui](sui.md) | Alt L1 | 18 |
 
 ## Smart Contract Addresses
 

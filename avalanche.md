@@ -44,7 +44,6 @@
 | --- | --- | --- |
 | [Yield Yak](https://yieldyak.com/) | Leading auto-compounding yield optimizer on Avalanche | [docs](https://docs.yieldyak.com/) · [github](https://github.com/yieldyak) |
 | [Beefy](https://beefy.finance/) | Multi-chain yield optimizer with auto-compounding | [docs](https://docs.beefy.finance/) · [github](https://github.com/beefyfinance) |
-| [Vector Finance](https://vectorfinance.io/) | Yield aggregator for boosted rewards | [docs](https://vectorfinance.gitbook.io/vectorfinance) |
 
 ## Bridge
 

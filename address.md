@@ -502,8 +502,6 @@ Currently covers 9 of the 14 listed chains: Ethereum, Arbitrum, Optimism, Base, 
 - Kinza Finance
   - Pool Proxy: `0xcb0620b181140E57D1c0D8B724CDE623cA963c8c` - [Explorer](https://bscscan.com/address/0xcb0620b181140E57D1c0D8B724CDE623cA963c8c)
   - KZA Token: `0x0d7F6bA0a4FFcf5069C775ce1034A7eDbbE16207` - [Explorer](https://bscscan.com/address/0x0d7F6bA0a4FFcf5069C775ce1034A7eDbbE16207)
-- Alpaca Finance
-  - ALPACA Token: `0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F` - [Explorer](https://bscscan.com/address/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F)
 
 ### Liquid Staking & Restaking
 
@@ -645,11 +643,8 @@ Currently covers 9 of the 14 listed chains: Ethereum, Arbitrum, Optimism, Base, 
   - Positions: `0x02e0af29598b407c8716b17f6d2795eca1b471413fa03fb145a5e33722184067` - [Explorer](https://voyager.online/contract/0x02e0af29598b407c8716b17f6d2795eca1b471413fa03fb145a5e33722184067)
 - AVNU
   - Exchange: `0x04270219d365d6b017231b52e92b3fb5d7c8378b05e9abc97724537a80e93b0f` - [Explorer](https://voyager.online/contract/0x04270219d365d6b017231b52e92b3fb5d7c8378b05e9abc97724537a80e93b0f)
-- JediSwap V2
-  - Factory: `0x01aa950c9b974294787de8df8880ecf668840a6ab8fa8290bf2952212b375148` - [Explorer](https://starkscan.co/contract/0x01aa950c9b974294787de8df8880ecf668840a6ab8fa8290bf2952212b375148)
-  - Swap Router: `0x0469b656239972a2501f2f1cd71bf4e844d64b7cae6773aa84c702327c476e5b` - [Explorer](https://starkscan.co/contract/0x0469b656239972a2501f2f1cd71bf4e844d64b7cae6773aa84c702327c476e5b)
 
 ### Common Tokens
 
-- STRK Token: `0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d` - [Explorer](https://starkscan.co/token/0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d)
-- ETH Token: `0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7` - [Explorer](https://starkscan.co/token/0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7)
+- STRK Token: `0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d` - [Explorer](https://starkscan.co/contract/0x04718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d)
+- ETH Token: `0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7` - [Explorer](https://starkscan.co/contract/0x049d36570d4e46f48e99674bd3fcc84644ddd6b96f7c741b1562b82f9e004dc7)

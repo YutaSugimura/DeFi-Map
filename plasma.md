@@ -40,7 +40,7 @@
 | Protocol | Description | Links |
 | --- | --- | --- |
 | [Pendle](https://www.pendle.finance/) | Second-largest protocol on Plasma with ~$1B TVL (30% of chain TVL) | [docs](https://docs.pendle.finance/) · [github](https://github.com/pendle-finance) |
-| [Plasma Vaults](https://app.plasma.to/) | Yield vaults powered by Veda infrastructure | [docs](https://docs.veda.tech/vault-deployments/plasma) |
+| [Plasma Vaults](https://app.plasma.to/) | Yield vaults powered by Veda infrastructure | [docs](https://docs.veda.tech/) |
 | [Veda](https://veda.tech/) | Vault infrastructure protocol securing $3.5B+ TVL across networks | [docs](https://docs.veda.tech/) |
 
 ## Bridge
