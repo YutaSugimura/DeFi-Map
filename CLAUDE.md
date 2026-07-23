@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-DeFi-Map is an Awesome List-style documentation repository cataloging DeFi (Decentralized Finance) projects across Ethereum and related blockchain networks. It contains only Markdown files — no application code, no build system, no dependencies.
+DeFi-Map is an Awesome List-style documentation repository cataloging DeFi (Decentralized Finance) projects across Ethereum and related blockchain networks. It is almost entirely Markdown files — the only code is a stdlib-only validation script (`scripts/check_format.py`) run by CI; no build system, no dependencies.
 
 ## Repository Structure
 
