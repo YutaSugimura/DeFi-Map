@@ -1,0 +1,16 @@
+{
+  "retryOn429": true,
+  "retryCount": 3,
+  "fallbackRetryDelay": "30s",
+  "timeout": "20s",
+  "aliveStatusCodes": [200, 201, 202, 203, 204, 206, 403, 429, 999],
+  "httpHeaders": [
+    {
+      "urls": ["https://", "http://"],
+      "headers": {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+      }
+    }
+  ]
+}
