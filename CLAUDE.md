@@ -19,11 +19,11 @@ DeFi-Map is an Awesome List-style documentation repository cataloging DeFi (Dece
 Two GitHub Actions workflows:
 
 - **PR Title Check** (`check-pr-title.yml`): Enforces semantic PR titles via `amannn/action-semantic-pull-request` (requires prefixes like `feat:`, `fix:`, etc.)
-- **Link Check** (`linkchecker.yml`): Validates all Markdown links using `gaurav-nelson/github-action-markdown-link-check`. Runs daily at 9 AM UTC, on push to main, and on all PRs.
+- **Link Check** (`linkchecker.yml`): Validates all Markdown links using `tcort/github-action-markdown-link-check`. Runs daily at 9 AM UTC, on push to main, and on all PRs.
 
 ## Contribution Conventions
 
 - Each DeFi project entry follows a consistent format: `- [Protocol Name](https://url/) Brief description.` followed by indented sub-items (docs, github)
 - `<!-- markdown-link-check-disable/enable -->` comments in `README.md` control the link checker — used around internal relative links
-- Two issue templates in `.github/ISSUE_TEMPLATE/`: `list-dapp.md` (add new DApp) and `fix-links.md` (report broken links)
+- Two issue form templates in `.github/ISSUE_TEMPLATE/`: `list-dapp.yml` (add new DApp) and `fix-links.yml` (report broken links)
 - Licensed under CC0 (public domain)
