@@ -1,3 +1,5 @@
+
+
 # Awesome DeFi Map [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![GitHub Stars](https://img.shields.io/github/stars/YutaSugimura/DeFi-Map)](https://github.com/YutaSugimura/DeFi-Map/stargazers)
@@ -33,7 +35,7 @@ See [address.md](address.md) for a collection of smart contract addresses and bl
 
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md#how-to-contribute) before submitting a pull request.
 
 ## License
 
