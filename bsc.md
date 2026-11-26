@@ -22,6 +22,7 @@
 | [DODO](https://dodoex.io/) | DEX using Proactive Market Maker algorithm | [github](https://github.com/DODOEX) |
 | [Thena](https://thena.fi/) | Liquidity layer and DEX on BSC with ve(3,3) tokenomics | [docs](https://docs.thena.fi/) |
 | [Wombat Exchange](https://www.wombat.exchange/) | Multi-chain stableswap DEX | [docs](https://docs.wombat.exchange/) · [github](https://github.com/wombat-exchange) |
+| [Melega DEX](https://www.melega.finance/) | Automated market maker for token swaps and liquidity pools on BNB Smart Chain | [github](https://github.com/meleganza/MelegaSwapV2) |
 
 ## Liquid Staking & Restaking
 
